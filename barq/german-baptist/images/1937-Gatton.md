@@ -1,0 +1,10 @@
+---
+title: 1937 Gatton
+layout: image
+album: German Baptist Churches Album
+image: 1937-Gatton.jpg
+prev: 1936-North-Rockhampton-High-St.html
+next: 1937-Kenilworth.html
+---
+{% include image-head.md %}
+{% include image.html %}

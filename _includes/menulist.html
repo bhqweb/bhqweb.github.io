@@ -1,0 +1,19 @@
+{% if menu.sub != null %}
+  <li>
+  <span class="opener">{{ menu.title }}</span>
+    <ul>
+      <!-- 2nd level -->
+      {% for sub in menu.sub %}
+      <li>
+        <a href="{{ site.baseurl }}{{ sub.href }}">
+          {{ sub.title }}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% else %}
+  <li>
+    <a href="{{ site.baseurl }}{{ menu.href }}">{{ menu.title }}</a>
+  </li>
+{% endif %}

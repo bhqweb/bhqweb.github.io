@@ -1,0 +1,10 @@
+<!-- 1st level -->
+{% if page.menu == 'bhq' %}
+  {% for menu in site.data.menu %}
+    {% include menulist.html %}
+  {% endfor %}
+{% else %}
+  {% for menu in site.data.menu-barq %}
+    {% include menulist.html %}
+  {% endfor %}
+{% endif %}

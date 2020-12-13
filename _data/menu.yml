@@ -1,0 +1,36 @@
+- title: "BHQ Home"
+  href: "/index.html"
+- title: "Publications"
+  sub:
+    - title: "Publications List"
+      href: "/bhq/pubs/index.html"
+    - title: "Author List"
+      href: "/bhq/pubs/authors.html"
+    - title: "In Print"
+      href: "/bhq/pubs/print.html"
+    - title: "Out of Print"
+      href: "/bhq/pubs/out-print.html"
+    - title: "ePub"
+      href: "/bhq/pubs/epub.html"
+    - title: "Print on Demand"
+      href: "/bhq/pubs/pod.html"
+    - title: "Monographs"
+      href: "/bhq/pubs/mono.html"
+- title: "Forum Journal"
+  sub:
+    - title: Forum 1981 - 2020
+      href: /bhq/forum/index.html
+    - title: Forum Title Index
+      href: /bhq/forum/forumindex.html
+    - title: Forum Author Index
+      href: /bhq/forum/forumAuthor.html
+    - title: Forum Extracts
+      href: /bhq/forum/extracts/index.html
+- title: Archiving Guide Sheets
+  href: /bhq/guides.html
+- title: "Qld Baptist Archives"
+  href: "/barq/index.html"
+- title: "Links"
+  sub:
+    - title: Queensland Baptists
+      href: https://www.qb.org.au/

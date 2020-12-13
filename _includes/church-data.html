@@ -1,0 +1,17 @@
+<table class="churches">
+  <tr>
+    <th>Church</th>
+    <th>Commencement</th>
+    <th>Constitution</th>
+    <th>Building</th>
+  </tr>
+{% assign churches = site.data.church-start %}
+{% for item in churches %}
+  <tr>
+  <td>{{ item.Church }}</td>
+  <td>{{ item.Commensement }}</td>
+  <td>{{ item.Constitution }}</td>
+  <td>{{ item.Building }}</td>
+  </tr>
+{%- endfor -%}
+</table>

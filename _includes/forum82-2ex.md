@@ -1,0 +1,16 @@
+## Anniversaries and Celebrations
+
+A number of churches are currently marking significant anniversaries. The Minden District Baptist Church family celebrated its 130th anniversary on 22 April, 2012 with a large number of people attending a celebration service and luncheon. Greetings from local civic officials were received and as were messages from previous pastors. Some of the long-standing families of this historic German Baptist church were well represented, including members of the Truloff, Lehmann, Sippel, Schumann and Schulz families.
+
+Windsor Road Baptist Church marked its 135th anniversary on June 2-3 with elaborate celebrations including an open day on the Saturday and a service and lunch on Sunday 3rd. A great deal of work was done by organisers, especially Ian and Sue McQuay, in inviting former members and friends and setting up colourful displays of the long years of the history of the church which were arranged around the inside of the church. A special background feature of the anniversary was the digitization of church records.
+
+Nearly as old is Gympie—at 125 years; initial services took place in 1887, although the church was not formally constituted until 1889 and then lapsed before reforming some years later in 1897. Celebrations are planned for later this year.
+Silkstone Baptist Church celebrated its centenary with a series of events commencing last year and continuing throughout 2012. The church was formed as an outreach from Ipswich Baptist Church under the energetic leadership of Rev J C Farquhar who had the vision of establishing church in key areas of the city as it grew in strength and importance. Silkstone developed into a strong work and has continued its important ministry to the present, despite many changes in the life of the district. Nambour marks also marks a century as a constituted church, as does Rosalie, whose activities commenced almost 30 years earlier.
+
+Rockhampton has celebrated its 150th anniversary. Carey at Bulimba can virtually claim a similar age—it was formed as a merger of Norman Park in 1967 with Bulimba; this church which was an outstation served by Wharf St and Jireh at different times, can trace its history to 1862 or possibly even earlier. Southbank (Vulture St, South Brisbane) is 140 years old.
+
+Gatton celebrates 75 years, while anniversaries marking 60 years since work began fall this year at Deception Bay and Sunnybank while a jubilee can be marked at Innisfail.
+
+Changes are taking place in other churches too with Lindum being absorbed by Wynnum, and Geebung, established in 1923, merging with Sandgate after 60 years as a constituted church to form a new united church. Sandgate itself is 125 years old. Another one of similar age is Rosewood which commenced as Lanefield.
+
+This all means plenty of rejoicing and many opportunities to reflect on the pioneers and pilgrims of the past. It seems that the next sesqui-centenary to be celebrated will be Annerley which began its life in Fairfield with a church building erected in 1865. The church later relocated to its current position in Annerley and another church was commenced a short time later elsewhere in Fairfield.

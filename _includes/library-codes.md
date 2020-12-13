@@ -1,0 +1,27 @@
+### KEY – AREA AND LIBRARY CODES
+
+- AGIA Global Interaction (ABMS)
+- ANL National Library of Australia
+- NBA New South Wales Baptist Archives
+- NBTH Morling College, NSW
+- NFERG Presbyterian Church of Australia in NSW (Ferguson Memorial Library)
+- NMTC Moore Theological College, NSW
+- NSL State Library of NSW (incl. Mitchell Library)
+- NSMB Sydney Missionary and Bible College
+- QBA Queensland Baptist Archives
+- QBTH Malyon College: Queensland Baptist College of Ministries
+- QSL State Library of Queensland (incl. John Oxley Library – QJO)
+- QU:FRYER University of Queensland, Fryer Library
+- SB Burleigh College, SA
+- SFU Flinders University, SA
+- SSL State Library of South Australia (incl. Mortlock Library)
+- TSL State Library of Tasmania
+- TU University of Tasmania
+- VBA Victorian Baptist Archives (T. Howard Crago Archives)
+- VBCO Bible College of Victoria
+- VSL State Library of Victoria
+- VU:W Whitley College, Vic
+- WB Baptist Theological College of WA
+- WBA Western Australian Baptist Archives
+- WLB State Library of Western Australia (incl. Battye Library)
+- ZABT Carey Baptist College, Auckland, New Zealand

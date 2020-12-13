@@ -1,0 +1,9 @@
+{%- if page.menu == 'bhq' -%}
+  Baptist Heritage Queensland
+{%- else -%}
+  {%- if page.display == 'image' -%}
+    {{ page.title }}
+  {%- else -%}
+    Baptist Church Archives Queensland
+  {%- endif -%}
+{%- endif -%}

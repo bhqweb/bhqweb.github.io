@@ -1,0 +1,7 @@
+## Memorial Books Cases for Archives
+
+Two attractive display cabinets have been placed in the Baptist Archives as a memorial to one of our keenest members – Rev Mel Williams. The cases have been donated by Mrs Madeleine Williams as a fitting tribute to her husband who died 20 July 2011 at 86 years of age after a long ministry. Mr Williams was trained at NZ Bible Training Institute and the Baptist Theological College of NSW. He served in several pastorates in NSW from 1950 onwards before coming to Queensland in 1970 where he led churches at Nundah and Bundaberg. He was also interim pastor at several other churches. As well as his original BSc degree, he gained his BD and researched Neo-Pentecostalism for his MA degree, producing a valuable study of that movement which deserves wider circulation.
+
+Mr Williams was a long time member of BHQ and wrote two of its popular books – Cameos of Baptist Men in 19th Century Queensland, and Mission to Queensland, as well as many articles for the Society’s newsletter. He was also a deeply involved in numismatics with a good personal collection of items. He wrote many articles and won awards for his work in this field.
+
+The cabinets are being used in the Archives to display its artefacts and book collection. Another cabinet donated earlier houses important Minutes of the Baptist Union of Queensland.
