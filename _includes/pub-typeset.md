@@ -18,7 +18,7 @@
 {%- if tyear != "" -%}<span class="year">&ensp;{{- item.Year -}} </span>{%- endif -%}
 {%- if textent != "" -%}<span class="extent">&ensp;{{ item.Extent }}{{- item.Ext-type -}} </span>{%- endif -%}
 {%- if tisbn != "" -%}<span class="isbn">&ensp;ISBN:&nbsp;{{ item.ISBN }} </span>{%- endif -%}
-{%- if tseries != "" -%}<span class="series">&ensp;{{- item.Series -}}{%- if item.SeriesNo != "" -%}&nbsp;{{ item.SeriesNo }}{%- endif -%}</span>{%- endif -%}
+{%- if tseries != "" -%}<span class="series">&ensp;({{- item.Series -}}{%- if item.SeriesNo != "" -%}&nbsp;{{ item.SeriesNo }}){%- endif -%}</span>{%- endif -%}
 {%- if tedition != "" -%}<span class="edition">&ensp; {{ item.Edition }} Edition </span>{%- endif -%}
 {%- if tvol != "" -%}<span class="volumes">&ensp;Volumes {{ item.Volumes }} </span>{%- endif -%}
 {%- if tednote != "" -%}<span class="editionnote">&ensp; {{ item.EditionNote }} </span>{%- endif -%}
