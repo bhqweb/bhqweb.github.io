@@ -18,12 +18,12 @@
       href: "/bhq/pubs/mono.html"
 - title: "Forum Journal"
   sub:
-    - title: Forum 1981 - 2020
+    - title: Forum 1981 - 2020 (Vol 81+)
       href: /bhq/forum/index.html
-    - title: Forum Title Index
+    - title: Forum Vols 1-80 Title Index
       href: /bhq/forum/Forum1-80Index.html
-    - title: Forum Author Index
-      href: /bhq/forum/forumAuthor.html
+#    - title: Forum Author Index
+#      href: /bhq/forum/forumAuthor.html
     - title: Forum Extracts
       href: /bhq/forum/extracts/index.html
 - title: Archiving Guide Sheets

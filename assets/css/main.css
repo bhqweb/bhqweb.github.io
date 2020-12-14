@@ -2277,7 +2277,7 @@ button,
 .price, .shipping {font-weight:bold;}
 a.nodecoration {text-decoration: none;}
 .churches {width: 60%;}
-.churches td {padding-top: 4pt ;padding-bottom:4pt}
+.churches td, .forum1-80 td {padding-top: 4pt ;padding-bottom:4pt}
 .out-print {color:red;font-weight:bold;}
 .bk-thumb {float:left;clear:left;padding-right:10px;}
 .bk-thumb > img {height:80px;}
