@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1947 Roadvale Kalbar
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1947-Roadvale-Kalbar.jpg
 prev: 1947-Margate.html
 next: 1948-Goomeri.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

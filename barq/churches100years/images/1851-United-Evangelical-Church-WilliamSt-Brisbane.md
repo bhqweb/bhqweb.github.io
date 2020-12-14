@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1851 United Evangelical Church WilliamSt Brisbane
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1851-United-Evangelical-Church-WilliamSt-Brisbane.jpg
 prev: 
 next: 1859-Wharf-St.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

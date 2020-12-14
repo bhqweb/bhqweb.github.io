@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1949 Brighton
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1949-Brighton.jpg
 prev: 1948-Goomeri.html
 next: 1949-Rockville-hall.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

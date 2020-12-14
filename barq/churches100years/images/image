@@ -1,6 +1,7 @@
 ---
 title: image
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: image
 prev: prev

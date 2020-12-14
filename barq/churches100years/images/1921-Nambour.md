@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1921 Nambour
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1921-Nambour.jpg
 prev: 1921-Murgon.html
 next: 1921-Wamuran.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

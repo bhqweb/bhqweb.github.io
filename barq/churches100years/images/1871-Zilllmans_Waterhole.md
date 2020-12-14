@@ -1,6 +1,7 @@
 ---
 title: 1871 Zilllmans Waterhole
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: 1871-Zilllmans_Waterhole.jpg
 prev: 1871-Marburg-1905.html

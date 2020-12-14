@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1934 Durong
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1934-Durong.jpg
 prev: 1933-Selene.html
 next: 1935-Annerely-Fairfield-relocated.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

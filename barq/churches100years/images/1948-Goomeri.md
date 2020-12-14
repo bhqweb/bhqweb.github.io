@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1948 Goomeri
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1948-Goomeri.jpg
 prev: 1947-Roadvale-Kalbar.html
 next: 1949-Brighton.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

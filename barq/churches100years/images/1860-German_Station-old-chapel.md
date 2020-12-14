@@ -1,6 +1,7 @@
 ---
 title: 1860 German Station old chapel
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: 1860-German_Station-old-chapel.jpg
 prev: 

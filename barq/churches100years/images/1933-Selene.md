@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1933 Selene
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1933-Selene.jpg
 prev: 1933-Greenslopes.html
 next: 1934-Durong.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

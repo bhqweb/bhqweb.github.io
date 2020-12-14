@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1912 Port Curtis Rd Rockhampton
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1912-Port-Curtis-Rd-Rockhampton.jpg
 prev: 1911-Nerimbera-Rockhampton.html
 next: 1912-Silkstone.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1950 Allora
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1950-Allora.jpg
 prev: 1949-Tarragindi-hall.html
 next: 1950-Beaudesert.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

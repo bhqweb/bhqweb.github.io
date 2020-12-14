@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1883 Albion
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1883-Albion.jpg
 prev: 1881-Toowoomba.html
 next: 1884-Rosalie.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}

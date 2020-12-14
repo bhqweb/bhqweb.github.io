@@ -1,10 +1,11 @@
 ---
-title: 1851 -1955 Churches
-layout: image
-album: Queensland Baptist churches 1851-1955
+title: 1905 West Rockhampton
+layout: default
+display: image
+album: German Baptist Churches Album
 image: 1905-West-Rockhampton.jpg
 prev: 1902-Tent-Hill.html
 next: 1906-RedlandBay.html
 ---
- {% include image-head.md %}
+{% include image-head.md %}
 {% include image.html %}
