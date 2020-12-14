@@ -7,7 +7,7 @@ menu: bhq
 ## {{ page.title }}
 
 <ul>
-{% assign items_grouped = site.data.Authors | sort: 'AuthorLast' | group_by: 'AuthorLast' | sort: 'Title' %}
+{% assign items_grouped = site.data.Books | sort: 'AuthorLast' | group_by: 'AuthorLast' %}
 {%- for group in items_grouped -%}
 {% assign type = group.items[0].Author | normalize_whitespace %}
 <h3>{{ type }}</h3> 

@@ -8,7 +8,11 @@ menu: barq
 
 {% include library-codes.md %}
 
-### Advance Launceston, Tas (Baptist Union of Tasmania) 1-26(1958-1983) <br/><span style="font-size: 88%">Continues Tasmanian Baptist Church Chronicle; continued by Tasmanian Baptist Advance</span>
+### Advance Launceston, Tas (Baptist Union of Tasmania) 1-26(1958-1983) 
+
+Continues Tasmanian Baptist Church Chronicle; continued by Tasmanian Baptist Advance
+{: .persubinfo }
+
 - ANL 1 -26 (1958-1983)
 - NBTH 22-26 (1979-1983)
 - SB last 2 yrs only
@@ -18,7 +22,10 @@ menu: barq
 - WB (1985-1990) impf
 - ABT 171-190 (1973-1992) impf
 
-### American Baptist Quarterly Rochester, New York (American Baptist Historical Society) 1(July/S 1982)+; ISSN:0745-3698; Continues Foundations; Indexed by ATLA
+### American Baptist Quarterly 
+Rochester, New York (American Baptist Historical Society) 1(July/S 1982)+; ISSN:0745-3698; Continues Foundations; Indexed by ATLA
+{: .persubinfo }
+
 - NBTH 1(1982)+
 - QBTH 1-8(1982-1989)
 - SB 1-17(1982-1998); 20(2001)+
@@ -31,23 +38,39 @@ menu: barq
 
  
 
-### Anabaptism Today: Christian discipleship in the radical tradition Chamberley, UK (The Anabaptist Network)
+### Anabaptism Today: Christian discipleship in the radical tradition
+
+Chamberley, UK (The Anabaptist Network)
+{: .persubinfo }
+
 - WB 1-37(1992-2004)
 
  
 
-### Andover Newton Quarterly Massachusetts (Andover Newton Theological School. Newton Centre) 1(1960)+ ISSN: 0003-2972
+### Andover Newton Quarterly 
+
+Massachusetts (Andover Newton Theological School. Newton Centre) 1(1960)+ ISSN: 0003-2972
+{: .persubinfo }
+
 -  NBTH 1966-1980 / 15-20(1974-1980) impf
 -  QBTH 6-20(1966-1979)
 
  
 
-### Annual Report of the Committee of the Baptist Missionary Society (Continues periodical Accounts relative to the BMS)
+### Annual Report of the Committee of the Baptist Missionary Society 
+
+(Continues periodical Accounts relative to the BMS)
+{: .persubinfo }
+
 -  NBTH 1829-1843
 
  
 
-### Anvil: a Baptist Quarterly Balwyn North, Vic. (Anvil Quarterly) 1/1(Sept 1968)-2/4(Sept 1970) National publication.
+### Anvil: a Baptist Quarterly 
+
+Balwyn North, Vic. (Anvil Quarterly) 1/1(Sept 1968)-2/4(Sept 1970) National publication.
+{: .persubinfo }
+
 -  ANL Vol.1/1 (Sept 1968)
 -  NBTH 1(1968-1970) impf
 -  NMTC 1-2(1968-1970)
@@ -58,14 +81,20 @@ menu: barq
 
  
 
-### Asian Baptist News Beecroft, NSW (Asian Baptist Fellowship) 1(1973)+
+### Asian Baptist News 
+
+Beecroft, NSW (Asian Baptist Fellowship) 1(1973)+
+{: .persubinfo }
+
 -  WB 1/3-23/1(1973-1995) impf
 
  
 
 ### The Associate: official newsletter of the American Baptist Historical Society
 
-#### Valley Forge (The Society) 2x/yr
+Valley Forge (The Society) 2x/yr
+{: .persubinfo }
+
 -  NBTH 2001+
 -  VU:W 18/2(2002); 19/1(2003)
 -  ZABT 16 no.2(2000)+
@@ -74,12 +103,18 @@ menu: barq
 
 ### Attitude Magazine
 
-#### Publication ceased
+Publication ceased
+{: .persubinfo }
+
 -  NBA 1-3(1998-1999)
 
  
 
-### Australasian Baptist Magazine Victoria (1858-59)
+### Australasian Baptist Magazine 
+
+Victoria (1858-59)
+{: .persubinfo }
+
 -  NSL Vol. 1 1858-1859
 -  VBA May 1859, Oct 1859
 
@@ -89,7 +124,9 @@ menu: barq
 
 ### Australian Baptist: The Official Organ of the Baptist Unions of Australia
 
-#### Sydney (Australian Baptist Churches on behalf of the Baptist Union of Australia) v.1n.1(Jan 1913-Dec 1991) National publication.
+Sydney (Australian Baptist Churches on behalf of the Baptist Union of Australia) v.1n.1(Jan 1913-Dec 1991) National publication.
+{: .persubinfo }
+
 -  ANL 46-79(1958-1991) impf
 -  NBA 1913-1991 Complete (hold at least 3 full sets)
 -  NMTC 72-79(1984-1991) impf
@@ -107,19 +144,30 @@ menu: barq
 
 ### Australian Baptist Home Mission
 
-#### Continued by A.M. Magazine
+Continued by A.M. Magazine
+{: .persubinfo }
+
 -  NBA 1984-1996 impf
 
  
 
-### Australian Baptist Missionary Digest: the Popular Report of the Australian Baptist Foreign Mission Hawthorn, Vic. (ABFM) Alternative titles include: Report of the Australian Baptist Foreign Mission, Popular annual report of the Australian Baptist Foreign Mission, Annual report of the Australian Baptist Foreign Mission, Popular report of the Australian Baptist Foreign Mission ANL copies for 1952-1953 bound with Australian Baptist missionary digest. Later title: Australian Baptist missionary digest
+### Australian Baptist Missionary Digest: 
+the Popular Report of the Australian Baptist Foreign Mission 
+
+Hawthorn, Vic. (ABFM) Alternative titles include: Report of the Australian Baptist Foreign Mission, Popular annual report of the Australian Baptist Foreign Mission, Annual report of the Australian Baptist Foreign Mission, Popular report of the Australian Baptist Foreign Mission ANL copies for 1952-1953 bound with Australian Baptist missionary digest. Later title: Australian Baptist missionary digest
+{: .persubinfo }
+
 -  AGIA 1892-1906; 1924-1930; 1935-1967
 -  ANL N 275.4 AUS (1945; 1948; 1950; 1952-1953); 1957/8
 
  
 
 
-### Australian Baptist Missionary Society (ABMS) Digest Hawthorn, Vic. (Australian Baptist Missionary Society)
+### Australian Baptist Missionary Society (ABMS) Digest 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society)
+{: .persubinfo }
+
 -  ANL 1958/9-1967
 -  WB 1964-1967
 
@@ -130,43 +178,75 @@ menu: barq
 
  
 
-### Australian Baptist Missionary Society (ABMS) News-backgrounder Hawthorn, Vic. (Australian Baptist Missionary Society)
+### Australian Baptist Missionary Society (ABMS) News-backgrounder 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society)
+{: .persubinfo }
+
 -  ANL No. 6-no. 19 Feb. 1976-Oct. 1978 N 266.6194 AUS
 
  
 
-### Australian Baptist Missionary Society (ABMS) Partners Hawthorn, Vic. (Australian Baptist Missionary Society)
+### Australian Baptist Missionary Society (ABMS) Partners 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society)
+{: .persubinfo }
+
 -  ANL Apr. 1984; Oct. 1985; Feb. 1986-Aug. 1986; Dec. 1987 N 266.3 PAR
 
  
 
-### Australian Baptist Missionary Society (ABMS) Pray daily Hawthorn, Vic. (Australian Baptist Missionary Society)
+### Australian Baptist Missionary Society (ABMS) Pray daily 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society)
+{: .persubinfo }
+
 -  ANL N 242.2 PRA (July 1985-Aug. 1985; Dec. 1986/Jan. 1987-Aug./Sept. 1989;Feb./Mar. 1990-Aug./Sept. 1990; Dec. 1990/Jan. 1991; Apr./May 1991-Oct./Nov. 1991)
 
  
 
-### Australian Baptist Missionary Society (ABMS) Prayer Guide Hawthorn, Vic. (Australian Baptist Missionary Society/Service Fellowship International) ISSN: 1033-9043
+### Australian Baptist Missionary Society (ABMS) Prayer Guide 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society/Service Fellowship International) ISSN: 1033-9043
+{: .persubinfo }
+
 -  ANL N 266.6062 AUS (1985-1990); 1998 - N266.6062 AUS
 
  
 
-### Australian Baptist Missionary Society (ABMS) Prayer Quarterly Hawthorn, Vic. (Australian Baptist Missionary Society)
+### Australian Baptist Missionary Society (ABMS) Prayer Quarterly 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society)
+{: .persubinfo }
+
 -  ANL Nov/Jan 1976-Feb/Apr 1984
 
  
 
-### Australian Baptist Missionary Society (ABMS) Report Hawthorn, Vic. (Australian Baptist Missionary Society) ISSN: 0314-8645
+### Australian Baptist Missionary Society (ABMS) Report 
+
+Hawthorn, Vic. (Australian Baptist Missionary Society) ISSN: 0314-8645
+{: .persubinfo }
+
 -  ANL 1976/77- Nq 266.60994 AUS
 
  
 
-### Australian Christian Messenger NSW, Edited by Rev James Greenwood & Rev Webb (1870-1871)
+### Australian Christian Messenger 
 
-#### Copies bound in Baptist Union of NSW Minute book
+NSW, Edited by Rev James Greenwood & Rev Webb (1870-1871)
+{: .persubinfo }
+
+- Copies bound in Baptist Union of NSW Minute book
+
 
  
 
-### Australian Evangelist Melbourne, Vic (W. Fairfax) (1860-1866)
+### Australian Evangelist 
+
+Melbourne, Vic (W. Fairfax) (1860-1866)
+{: .persubinfo }
+
 -  NMTC 1-3 no 24(1860-1862)
 -  NSL 1864-1865
 -  VBA 1861-1866
@@ -174,14 +254,23 @@ menu: barq
 
  
 
-### Australian Particular Baptist Magazine Sydney, George Loxton, Printer 1(1884)-1906 National publication
+### Australian Particular Baptist Magazine 
+
+Sydney, George Loxton, Printer 1(1884)-1906 National publication
+{: .persubinfo }
+
 -  NMTC 1-22(1884-1906)
 
  
 
-### Banner of Truth Sydney (Baptist Union NSW) 1-9(1877-1885)
+### Banner of Truth 
 
-#### Continued by The New South Wales Baptist in 1885 then in 1887 to The Baptist
+Sydney (Baptist Union NSW) 1-9(1877-1885)
+{: .persubinfo }
+
+Continued by The New South Wales Baptist in 1885 then in 1887 to The Baptist
+{: .persubinfo }
+
 -  NBA 1-9(1877-1889) impf
 -  NSL 1876 OC 1880 SE, 1916 MY - 1917 MR
 -  WB 1-16(1955-1959); 32-327(1963-1990) impf; 330-331(1991)
@@ -191,9 +280,13 @@ menu: barq
 
 ### The Baptist: The Organ of the Baptist Denomination in NSW
 
-#### Sydney (Baptist Union NSW) 3-21(1887-1912)
+Sydney (Baptist Union NSW) 3-21(1887-1912)
+{: .persubinfo }
 
-#### Continues The New South Wales Baptist; continued by Australian Baptist (national publication)
+
+Continues The New South Wales Baptist; continued by Australian Baptist (national publication)
+{: .persubinfo }
+
 -  NBTH 3-19 (1887-1910) impf
 -  VU:W Vol.3n.2(Nov 5 1887); Vol.3n.3 (Dec 3 1887); Vol.21n.3(Mar 1 1912)
 
@@ -201,7 +294,9 @@ menu: barq
 
 ### The Baptist
 
-#### Christchurch (Canterbury Baptist Association)
+Christchurch (Canterbury Baptist Association)
+{: .persubinfo }
+
 -  ZABT 4 nos. 1 & 2 (1880)
 
  
@@ -223,14 +318,18 @@ menu: barq
 
 ### Baptist Carer
 
-#### Auckland (Baptist Care Ltd)
+Auckland (Baptist Care Ltd)
+{: .persubinfo }
+
 -  ZABT 1997+ impf
 
  
 
 ### Baptist Ecumenical Fellowship
 
-#### Cattai, NSW (The Fellowship)
+Cattai, NSW (The Fellowship)
+{: .persubinfo }
+
 -  NBA 1-4(1998-1999)
 
  
@@ -242,7 +341,9 @@ menu: barq
 
 ### Baptist Heritage Update American (newsletter - Baptist History and Heritage Society)
 
-#### Formerly published by Brentwood (Southern Baptist Historical Society)
+Formerly published by Brentwood (Southern Baptist Historical Society)
+{: .persubinfo }
+
 -  VU:W 14/3(Sum/Fall 1998)+ Missing 15/3(Sum/Fall 1999)
 -  ZABT 16(2000)+
 
@@ -266,7 +367,9 @@ menu: barq
 
 ### Baptist History and Heritage: a Southern Baptist Journal American (Baptist History and Heritage Society) 1(1965)+; ISSN: 0005-5719;
 
-#### Formerly published by Brentwood (Southern Baptist Historical Society); Indexed by ATLA
+Formerly published by Brentwood (Southern Baptist Historical Society); Indexed by ATLA
+{: .persubinfo }
+
 -  QBTH 1(1965)+
 -  VU:W 1(1965)+ impf; Missing1 /2(1965)-3/2(1968); 25/1,2(1990); 28/1(1993)
 -  WB 4-6(1969-1971) impf; 9(1974)+
@@ -281,14 +384,18 @@ menu: barq
 
 ### Baptist Leader
 
-#### Philadelphia (American Baptist Publication Society) 1939+
+Philadelphia (American Baptist Publication Society) 1939+
+{: .persubinfo }
+
 -  SB 51-55(1989-1993) impf
 
  
 
 ### Baptist Magazine London: Wightman, G. 1-96(1809-1904)
 
-#### In 1833 incorporated The New Baptist Miscellany
+In 1833 incorporated The New Baptist Miscellany
+{: .persubinfo }
+
 -  NBA 1-40 (1810-1848), 42-55(1850-1863); 1809-1833; 1848-1899; 1901-1902; 1904 (1809-1889)
 -  NSL 1833-1834
 -  SB 1809-1833, 1848-1899, 1901-02, 1904
@@ -303,7 +410,12 @@ menu: barq
 
  
 
-### Baptist Ministers’ Journal (BMJ) Leeds, UK (Baptist Minister’ Association) ISSN: 0968-2406; Continues The Fraternal and The Journal of the Fraternal
+### Baptist Ministers’ Journal (BMJ) 
+
+Leeds, UK (Baptist Minister’ Association) ISSN: 0968-2406; Continues The Fraternal and The Journal of the Fraternal
+{: .persubinfo }
+
+
 -  NBTH 237(1992)+
 -  QBTH 241-244(1993); 248(1994); 256(1996); 257(1997); 274(2001)
 -  SB 237(1992)+
@@ -323,9 +435,12 @@ menu: barq
 
  
 
-### Baptist News Norwood, SA (South Australian Baptist Union) (1988-Dec 1995)
+### Baptist News 
 
-#### Continues News (SABU) Apr 1970-Sept 1988 and Newsletter 1966-1970 and SA Baptist Newsletter 1961-1965; continued by SA Baptist News 1996+
+Norwood, SA (South Australian Baptist Union) (1988-Dec 1995)<br/>
+Continues News (SABU) Apr 1970-Sept 1988 and Newsletter 1966-1970 and SA Baptist Newsletter 1961-1965; continued by SA Baptist News 1996+
+{: .persubinfo }
+
 -  SSL Oct 1988-Dec 1995
 
  
@@ -335,9 +450,12 @@ menu: barq
 
  
 
-### Baptist Peacemaker Lake Junaluska (Baptist Peace Fellowship of North America)
+### Baptist Peacemaker 
 
+Lake Junaluska (Baptist Peace Fellowship of North America)<br/>
 (included with BPFNA Membership) ISSN: 0735-5815
+{: .persubinfo }
+
 -  VU:W 11/4(1991)+; 12/1(Win1991/Sp1992)+ Missing 13/1(1993); 14/1,2(1994); 18/1(1998); 19(1999); 20(2000); 21/2-4(2001); 22/1,2(2002)
 -  WB 8-18(1988-1998)
 -  ZABT 10-13no.1(1990-1993)
@@ -346,7 +464,9 @@ menu: barq
 
 ### Baptist Program
 
-#### Nashville (Southern Baptist Convention)
+Nashville (Southern Baptist Convention)
+{: .persubinfo }
+
 -  ZABT 1955-1959 impf; 1964 impf; 1977-1980 impf
 
  
@@ -378,7 +498,9 @@ menu: barq
 
 ### Baptist Recorder: the journal of the Baptist Historical Society of NSW
 
-#### Sydney, NSW (Baptist Historical Society of NSW); (April 1977-); Published quarterly
+Sydney, NSW (Baptist Historical Society of NSW); (April 1977-); Published quarterly
+{: .persubinfo }
+
 -  NSL Vols. 1/1 - 2/87 (Apr 1977-Apr 1987)
 -  QBA 1984+ impf
 -  SB 54(1995)+
@@ -408,14 +530,18 @@ menu: barq
 
 ### Baptist Review of Theology = La Revue Baptist de Théologie.
 
-#### Gormley, Ont. (Central Baptist Seminary) 1(1991)+; ISSN: 1192-4241; Indexed by ATLA
+Gormley, Ont. (Central Baptist Seminary) 1(1991)+; ISSN: 1192-4241; Indexed by ATLA
+{: .persubinfo }
+
 -  NMTC 1(1991)+
 
  
 
 ### Baptist Student: a Christian Collegiate magazine
 
-#### Nashville (Sunday School Board of the Southern Baptist Convention)
+Nashville (Sunday School Board of the Southern Baptist Convention)
+{: .persubinfo }
+
 -  ZABT 35-41(1955-1961) impf; 43-46(1964-1966) impf
 
  
@@ -429,7 +555,9 @@ menu: barq
 
 ### Baptist Training Union Magazine
 
-#### Nashville (Sunday School Board of the Southern Baptist Convention)
+Nashville (Sunday School Board of the Southern Baptist Convention)
+{: .persubinfo }
+
 -  ZABT 30-45 (1955-1970) impf
 
  
@@ -449,21 +577,27 @@ menu: barq
 
 ### Baptist Union of NSW. Annual Report
 
-#### Sydney (The Union) 1989+
+Sydney (The Union) 1989+
+{: .persubinfo }
+
 -  NBTH 1989+impf (1989-1997)
 
  
 
 ### Baptist Union of NSW. Handbook
 
-#### Sydney (The Union) 1984+
+Sydney (The Union) 1984+
+{: .persubinfo }
+
 -  NMTC 1984-1993
 
  
 
 ### Baptist Union of NSW. Yearbook
 
-#### Sydney (The Union) 1901+
+Sydney (The Union) 1901+
+{: .persubinfo }
+
 -  NBA 1901+
 -  NBTH 1904-1929impf; 1930+
 
@@ -499,7 +633,9 @@ menu: barq
 
 ### Baptists Today
 
-#### Wilro Park, SA (Baptist Union of South Africa)
+Wilro Park, SA (Baptist Union of South Africa)
+{: .persubinfo }
+
 -  WB (1986-1998) impf
 -  ZABT 1992-1998 impf
 
@@ -513,21 +649,27 @@ menu: barq
 
 ### Canadian Baptist
 
-#### Etobicoke (Baptist Convention of Ontario and Quebec) ISSN: 0008-2988
+Etobicoke (Baptist Convention of Ontario and Quebec) ISSN: 0008-2988
+{: .persubinfo }
+
 -  ZABT 116(1970) impf
 
  
 
 ### Canterbury Baptist
 
-#### Christchurch (R. Binstead) 1-3(1877-1879)
+Christchurch (R. Binstead) 1-3(1877-1879)
+{: .persubinfo }
+
 -  ZABT 1-3(1877-1879)
 
  
 
 ### Canterbury Evangelist
 
-#### Christchurch (Canterbury Baptist Association) 1-2(1876-1877)
+Christchurch (Canterbury Baptist Association) 1-2(1876-1877)
+{: .persubinfo }
+
 -  ZABT 1-2(1876-1877)
 
  
@@ -539,7 +681,9 @@ menu: barq
 
 ### The Christian
 
-#### London 1(F 1870)+
+London 1(F 1870)+
+{: .persubinfo }
+
 -  NBA 1879-1904
 
  
@@ -561,7 +705,9 @@ menu: barq
 
 ### Chronicle: A Baptist Historical Quarterly
 
-#### Greensberg, Pa. (American Baptist Historical Society) 1-20 no.4 (Jan 1938-Oct 1957)
+Greensberg, Pa. (American Baptist Historical Society) 1-20 no.4 (Jan 1938-Oct 1957)
+{: .persubinfo }
+
 -  NBTH 9-20(1946-19570impf
 -  WB 1-2(1938-1939)
 -  ZABT 4-20(1941-1957)impf
@@ -570,7 +716,9 @@ menu: barq
 
 ### Church Musician
 
-#### Nashville (Southern Baptist Convention)
+Nashville (Southern Baptist Convention)
+{: .persubinfo }
+
 -  NMTC 31(1979)+
 -  ZABT 6-19(1955-1968) impf
 
@@ -578,7 +726,9 @@ menu: barq
 
 ### Church Musician Today
 
-#### Nashville (Southern Baptist Convention) 1997+; ISSN: 0009-6466
+Nashville (Southern Baptist Convention) 1997+; ISSN: 0009-6466
+{: .persubinfo }
+
 -  NMTC 1(1997)+
 
  
@@ -590,7 +740,9 @@ menu: barq
 
 ### Church Recreation
 
-#### Nashville (Sunday School Board of Southern Baptist Convention)
+Nashville (Sunday School Board of Southern Baptist Convention)
+{: .persubinfo }
+
 -  QBTH 3-20(1972-1990)
 -  ZABT 5no.4-11no.1(1964-1971); 8-9(1977-1979) impf
 
@@ -598,7 +750,9 @@ menu: barq
 
 ### Church Training
 
-#### Nashville (Sunday School Board of the Southern Baptist Convention)
+Nashville (Sunday School Board of the Southern Baptist Convention)
+{: .persubinfo }
+
 -  ZABT 1-2(1970-1971)
 
  
@@ -621,7 +775,9 @@ menu: barq
 
 ### Contact: A Quarterly Journal for Christian Youth Workers
 
-#### Haymarket, NSW (NSW Baptist Youth Advisory Services Division) 1-4(1970-1973)
+Haymarket, NSW (NSW Baptist Youth Advisory Services Division) 1-4(1970-1973)
+{: .persubinfo }
+
 -  NBTH 1-4(1970-1973) impf
 
  
@@ -636,7 +792,9 @@ menu: barq
 
 ### Day Star Hobart, Tas. (J.T. Soundy) v.1n.1(1886)-1894
 
-#### Continued by Southern Baptist
+Continued by Southern Baptist
+{: .persubinfo }
+
 -  ANL Vols. 4/1-6/12 (Jan.10,1889-Dec.10.1891)
 -  VSL 1893 (Feb 10-July 10)
 
@@ -644,14 +802,18 @@ menu: barq
 
 ### Evangelical Baptist
 
-#### Toronto (Fellowship of Evangelical Baptist Churches)
+Toronto (Fellowship of Evangelical Baptist Churches)
+{: .persubinfo }
+
 -  ZABT 10-33(1963-1985) impf
 
  
 
 ### Faith and Freedom: A Journal of Christian Ethics
 
-#### Perth, WA (Baptist Peace Fellowship of Australia) 1-6(1992-1998) ISSN: 1038-9865
+Perth, WA (Baptist Peace Fellowship of Australia) 1-6(1992-1998) ISSN: 1038-9865
+{: .persubinfo }
+
 -  NBTH 1-6no.2(1992-1998)
 -  QBTH 1-6(1992-1998)
 -  SB 1-6(1992-1998)
@@ -667,7 +829,9 @@ menu: barq
 
 ### Foundations: A Baptist Journal of History and Theology
 
-#### Rochester, New York (American Baptist Historical Society) 1-25(1958-1982) ISSN: 0015-8992; Continued by American Baptist Quarterly
+Rochester, New York (American Baptist Historical Society) 1-25(1958-1982) ISSN: 0015-8992; Continued by American Baptist Quarterly
+{: .persubinfo }
+
 -  NBTH 5-8(1962-1965)impf; 9-25(1966-1982) 1962-1982
 -  QBTH 18-25(1975-1982)
 -  SB 1-25no.2(1958-1982)
@@ -679,7 +843,9 @@ menu: barq
 
 ### Fraternal Pettswood, Kent (Baptist Ministers Fellowship) ISSN: 0950-1703;
 
-#### Continues Fraternal and remembrancer, continued by Journal of the Fraternal
+Continues Fraternal and remembrancer, continued by Journal of the Fraternal
+{: .persubinfo }
+
 -  NBTH 64-118(1947-1960) impf; 135-177(1965-1976)
 -  QBTH 70(1948)-236(1991) impf
 -  SB 64-236 (1947-1991)
@@ -697,7 +863,9 @@ menu: barq
 
 ### Fraternal Magazine: journal of the Baptist ministers fraternal of NSW
 
-#### Sydney (Baptist Minister’ Fraternal of NSW); Continued by Baptist Ministers’ Journal
+Sydney (Baptist Minister’ Fraternal of NSW); Continued by Baptist Ministers’ Journal
+{: .persubinfo }
+
 -  NBTH 1-2(1973-1975) impf
 -  VU:W 1/1(1973)-1/4(1974); 2/1,3(1975)
 
@@ -711,7 +879,9 @@ menu: barq
 
 ### Home Life
 
-#### Nashville, Tenn. (Southern Baptist Convention) ISSN: 0018-4071
+Nashville, Tenn. (Southern Baptist Convention) ISSN: 0018-4071
+{: .persubinfo }
+
 -  SB 41no.4-49no.11(1987-1995)
 
 ### Home Mission Voice
@@ -725,15 +895,21 @@ menu: barq
 
 ### Journal of European Baptist Studies
 
-#### Prague (International Baptist Theological Seminary) 1(2000)+; ISSN: 1213-1520
+Prague (International Baptist Theological Seminary) 1(2000)+; ISSN: 1213-1520
+{: .persubinfo }
+
 -  WB 1/ 2(2001); 3/1(2002)+
 -  ZABT 1(2000)+
 
 ### Journal of the Fraternal
 
-#### England (Baptist Minister’ Fellowship)
+England (Baptist Minister’ Fellowship)
+{: .persubinfo }
 
-#### Continues The Fraternal, Continued by Baptist Ministers Journal
+
+Continues The Fraternal, Continued by Baptist Ministers Journal
+{: .persubinfo }
+
 -  NBTH 178-237(1977-1992)
 -  SB 180-219(1977-1987)
 -  VU:W n.178(1977)-236(1991) Missing 209(1984); 231(1990)
@@ -747,17 +923,23 @@ menu: barq
 
 ### Mainstream
 
-#### London (Baptist Union of Great Britain and Ireland); n.27(1998)-n.70(2001); Continued by Talk: the mainstream magazine
+London (Baptist Union of Great Britain and Ireland); n.27(1998)-n.70(2001); Continued by Talk: the mainstream magazine
+{: .persubinfo }
+
 -  VU:W 27(1998); 29(1998)-70(2001)
 
 ### Mennonite Life
 
-#### North Newton, Kan. (Bethel College) 1(1946)+
+North Newton, Kan. (Bethel College) 1(1946)+
+{: .persubinfo }
+
 -  WB 5no.2-36(1950-1981) impf
 
 ### Mennonite Quarterly Review: A Journal Devoted to Anabaptist Mennonite History, Thought, Life and Affairs
 
-#### Goshen, Ind. (Mennonite Historical Society) 1(Jan 1927)+; ISSN: 0025-9373; Indexed by ATLA
+Goshen, Ind. (Mennonite Historical Society) 1(Jan 1927)+; ISSN: 0025-9373; Indexed by ATLA
+{: .persubinfo }
+
 -  NBTH 50-57(1976-1983); 59(1985)+
 -  SB 1-42(1927-1968)[mf]
 -  VU:W 1(1927)+
@@ -766,7 +948,9 @@ menu: barq
 
 ### Mennonitische Geschichtsblatter
 
-#### Karlsruhe (Mennonitischer Gerschichtsverein) 1-5(1936-1940); ns 1(1949)+
+Karlsruhe (Mennonitischer Gerschichtsverein) 1-5(1936-1940); ns 1(1949)+
+{: .persubinfo }
+
 -  WB 1-5/1(1936-1940) impf; 6(1949)+
 
 ### The Missionary Echo: The Monthly Paper of the Furreedpore Mission
@@ -774,18 +958,24 @@ menu: barq
 
 ### Missionary Herald
 
-#### Oxfordshire (Baptist Missionary Society) ISSN: 0264-1372
+Oxfordshire (Baptist Missionary Society) ISSN: 0264-1372
+{: .persubinfo }
+
 -  NBA 1889-1889
 -  ZABT 1946-2000
 
 ### Missions: An International Baptist Magazine
 
-#### New York (American Baptist convention)
+New York (American Baptist convention)
+{: .persubinfo }
+
 -  ZABT 36-165(1945-1967) impf
 
 ### Mosaic: The Quarterly Journal of the NSW and A.C.T. Baptist Ministers’ Association
 
-#### Eastwood, NSW (NSW Baptist Ministers Association) v.1(1999)-
+Eastwood, NSW (NSW Baptist Ministers Association) v.1(1999)-
+{: .persubinfo }
+
 -  NBTH 1999+
 -  QBTH 2(2000)+ impf
 -  VU:W 1/1(Aug1999)+; Missing 5/4(2003)
@@ -793,7 +983,9 @@ menu: barq
  
 
 
-#### National Baptist Hawthorn, Vic. (Baptist Union of Australia) 1(1988)-15(2002); ISSN: 1030-472X; National publication.
+National Baptist Hawthorn, Vic. (Baptist Union of Australia) 1(1988)-15(2002); ISSN: 1030-472X; National publication.
+{: .persubinfo }
+
 -  ANL 1(1988)-2002
 -  NBTH 1(1988)-2002
 -  QBA 1/1(March 1988)-2002
@@ -805,12 +997,16 @@ menu: barq
 
 ### New Baptist Magazine and Evangelical Repository London: Harsette and Savill
 
-#### Superseded after 1826 by The New Baptist Miscellany
+Superseded after 1826 by The New Baptist Miscellany
+{: .persubinfo }
+
 -  NSL 1825
 
 ### The New Baptist Miscellany, London: Simpkin and Marshall
 
-#### Title page, New Baptist Miscellany and Particular Baptist Magazine, individual issues, 1827, entitled The Particular Baptist Magazine. From 1833 merged into The Baptist Magazine
+Title page, New Baptist Miscellany and Particular Baptist Magazine, individual issues, 1827, entitled The Particular Baptist Magazine. From 1833 merged into The Baptist Magazine
+{: .persubinfo }
+
 -  NSL V1 -V5 (1827-1831)
 -  VU:W Vol. 1(1827); v.2(1928); v.6(1832)
 -  ZABT 1828-1932
@@ -823,14 +1019,20 @@ menu: barq
 
 ### New Zealand Baptist
 
-#### New Zealand (Baptist Churches of NZ) ISSN: 0027-7177
+New Zealand (Baptist Churches of NZ) ISSN: 0027-7177
+{: .persubinfo }
+
 -  ZABT 4no.3-4(1880); 4-6(1884-1887); 7no.61(1889)+
 
 ### New Zealand Journal of Baptist Research
 
-#### Auckland (NZ Baptist Historical Society) 1(1996)+ 1173-9312; Continued by The Pacific Journal of Baptist Research
+Auckland (NZ Baptist Historical Society) 1(1996)+ 1173-9312; Continued by The Pacific Journal of Baptist Research
+{: .persubinfo }
 
-#### Indexed by ARI
+
+Indexed by ARI
+{: .persubinfo }
+
 -  NBTH 1(1996)+
 -  SB 3(1998)+
 -  VU:W 1(Oct 1996)-9(2004)
@@ -839,12 +1041,16 @@ menu: barq
 
 ### News Norwood, SA (South Australian Baptist Union) (April 1970-Sept 1988)
 
-#### Continues Newsletter; continued by Baptist News
+Continues Newsletter; continued by Baptist News
+{: .persubinfo }
+
 -  SSL Apr 1970-Sept 1988
 
 ### Newsletter Norwood, SA (South Australian Baptist Union) (1966-1970)
 
-#### Continues South Australian Baptist Newsletter; continued by News
+Continues South Australian Baptist Newsletter; continued by News
+{: .persubinfo }
+
 -  SSL 6/1 (Jan 1966)-10/1(Feb 1970)
 
 ### Our Bond 1889-1941
@@ -859,14 +1065,18 @@ menu: barq
 
 ### Our Indian Field (Australian Baptist Missionary Society/Global Interaction)
 
-#### Continued by Vision
+Continued by Vision
+{: .persubinfo }
+
 -  AGIA 1915-1949
 -  SB 1915-1919
 
  
 
 
-#### Our Yesterdays Hawthorn, Vic. (Victorian Baptist Historical Society) 1(1993)+; ISSN: 1320-6877 Annual; Indexed by ARI
+Our Yesterdays Hawthorn, Vic. (Victorian Baptist Historical Society) 1(1993)+; ISSN: 1320-6877 Annual; Indexed by ARI
+{: .persubinfo }
+
 -  ANL 1(1993)+
 -  NBTH 1(1993)+
 -  QBA 1(1993)+
@@ -878,20 +1088,26 @@ menu: barq
 
 ### Pacific Journal of Baptist Research Auckland (NZ Baptist Historical Society); Continues The New Zealand Journal of Baptist Research
 
-#### Indexed by ARI
+Indexed by ARI
+{: .persubinfo }
+
 -  VU:W 1/1(2005)+
 -  WB 1/1(2005)+
 
 ### Periodical Accounts Relative to the Baptist Missionary Society
 
-#### London (Baptist Missionary Society)
+London (Baptist Missionary Society)
+{: .persubinfo }
+
 -  NBTH 1800-1817
 -  SB 1-12(1792-1859)
 -  VU:W 1799-1804?
 
 ### Primary Source: an international newsletter of Baptist History
 
-#### Rochester, NY (American Baptist-Samuel Colgate Historical Library/American Baptist Historical Society)
+Rochester, NY (American Baptist-Samuel Colgate Historical Library/American Baptist Historical Society)
+{: .persubinfo }
+
 -  NBTH 1(1981)+
 -  VU:W 2(1982)+ Missing 21/1(2001)
 -  WB 10/2-21/2(1990-2001); 1/1(2003)+
@@ -899,7 +1115,9 @@ menu: barq
 
 ### Propagandist: Victoria (Baptist Union of Victoria) (1921-30)
 
-#### Continued by Victorian Baptist Witness
+Continued by Victorian Baptist Witness
+{: .persubinfo }
+
 -  VBA 1921-30
 -  VSL 10/1-10/12 (5/1/1930-5/12/1930)
 
@@ -917,7 +1135,9 @@ menu: barq
 -  SB Last 2 yrs only
 -  VBA 1890-1913; 1923-1925; 1951; Feb 1972; Dec 1980; Jun,Nov 1981; May,Jul-Sept 1982;
 
-#### Nov 1982-Dec 1985; Mar 1986-Jun 1987
+Nov 1982-Dec 1985; Mar 1986-Jun 1987
+{: .persubinfo }
+
 -  VU:W vol. 17/2(1898); 69(1992)+ Missing 74/3(1997)
 
 ### Queensland Baptist Forum Brisbane, Qld, (Baptist Historical Society of Queensland) 30(1995)+ Continues BHSQ Newsletter (3x/yr) Free with BHSQ membership
@@ -930,7 +1150,9 @@ menu: barq
 
 ### Queensland Freeman Qld, Brisbane (Baptist Association of Queensland) (1881-1888)
 
-#### Continued by Queensland Baptist after a short break in publication.
+Continued by Queensland Baptist after a short break in publication.
+{: .persubinfo }
+
 -  ANL 1/1 Jan 1881-6/34 Nov 1888 (fiche and mf)
 -  NSL 1881-88
 -  QBA 1881-88 impf
@@ -939,16 +1161,22 @@ menu: barq
  
 
 
-#### Reformation in Australia Warners Bay, NSW (Baptist Reformed Church) 1(1980)
+Reformation in Australia Warners Bay, NSW (Baptist Reformed Church) 1(1980)
+{: .persubinfo }
 
-#### Publication ceased
+
+Publication ceased
+{: .persubinfo }
+
 -  NBTH 16-52(1982-1986)
 -  NMTC 8-52(1981-1986)
 -  NSMB 40-48(1984-1985)
 
 ### Te Reo Whakamoemiti
 
-#### Auckland (Baptist Maori Ministries)
+Auckland (Baptist Maori Ministries)
+{: .persubinfo }
+
 -  ZABT 1987-1996 impf
 
 ### Review and Expositor Louisville, Kentucky (Southern Baptist Theological Seminary) 1(1904)+; ISSN: 0034-6373; Indexed by ATLA, ATLAS
@@ -957,30 +1185,42 @@ menu: barq
 -  SB 62no.2(1965)+ impf
 -  VU:W 23(1926); 26-44(1929-1947); 53-56(1956-59); 64/1(Wint 1967); 65/1(Wint 1968); 66(1969)+
 
-#### Missing 27(1930); 76(1979); 99(2002)
+Missing 27(1930); 76(1979); 99(2002)
+{: .persubinfo }
+
 -  WB 52/3 (1955); 61/4-74/4(1964-1977) impf; 75/1(1978)+
 -  ZABT 40-46(1943-1949) impf; 52(1955)+
 
 ### The Scottish Baptist Magazine
 
-#### Glasgow (The Baptist Union of Scotland)
+Glasgow (The Baptist Union of Scotland)
+{: .persubinfo }
 
-#### Publication ceased
+
+Publication ceased
+{: .persubinfo }
+
 -  NBTH 1971-1975 impf
 
 ### Search: Professional Journal for Southern Baptists
 
-#### Nashville 1(1970)+
+Nashville 1(1970)+
+{: .persubinfo }
+
 -  WB 1-23(1970-1993)
 
 ### Searching together
 
-#### Malin, Oregon (Baptist Reformation Educational Ministries); Indexed by ATLA (selective)
+Malin, Oregon (Baptist Reformation Educational Ministries); Indexed by ATLA (selective)
+{: .persubinfo }
+
 -  NMTC 11no.3(1982)+
 
 ### South African Baptist Journal of Theology
 
-#### Capetown (Baptist Union of South Africa) 1(1992)+ ISSN:1019-7990
+Capetown (Baptist Union of South Africa) 1(1992)+ ISSN:1019-7990
+{: .persubinfo }
+
 -  NBTH 7(1998)+
 -  WB 1(1992)+
 
@@ -990,7 +1230,9 @@ menu: barq
 
 ### South Australian Baptist Newsletter South Australia, (1961-1965)
 
-#### Continued by Newsletter
+Continued by Newsletter
+{: .persubinfo }
+
 -  SSL 1/1(1961)-5/11(Dec 1965)
 
 ### South Australian Baptist Union. Annual Reports (South Australian Baptist Union)
@@ -998,7 +1240,9 @@ menu: barq
 
 ### South Australian Baptist Union. Baptist handbook for ... : containing reports, balance sheets, statistics, etc., for… Adelaide (South Australian Baptist Union/Furreedpore Mission)
 
-#### Includes Furreedpore Mission. Reports (1906-1919/20) and Annual reports (1920/21-1928/29).
+Includes Furreedpore Mission. Reports (1906-1919/20) and Annual reports (1920/21-1928/29).
+{: .persubinfo }
+
 -  ANL 1908-1934. 27 v. (1916) N 286.19423 SOU
 
 ### South Australian Baptist Union. Handbook (South Australian Baptist Union)
@@ -1015,9 +1259,13 @@ menu: barq
  
 
 
-#### The Southern Baptist Adelaide (SA), Hobart (Tas), Melbourne (Vic.) 1-(1895-1912)
+The Southern Baptist Adelaide (SA), Hobart (Tas), Melbourne (Vic.) 1-(1895-1912)
+{: .persubinfo }
 
-#### National publication, merger of the Day Star (Hobart), Truth And Progress (Adelaide) and Victorian Baptist (Melb.) Subsequently also embraced Western Australia until the commencement of the Western Australian Baptist.
+
+National publication, merger of the Day Star (Hobart), Truth And Progress (Adelaide) and Victorian Baptist (Melb.) Subsequently also embraced Western Australia until the commencement of the Western Australian Baptist.
+{: .persubinfo }
+
 -  SB 1-18(1895-1912)
 -  SSL 10/2 (12 Jan 1904)-18/53 (26 Dec 1912)
 -  VBA 1895-1912
@@ -1026,12 +1274,16 @@ menu: barq
 
 ### Southern Seminary
 
-#### Louisville (Southern Baptist Theological Seminary) ISSN: 0040-7232
+Louisville (Southern Baptist Theological Seminary) ISSN: 0040-7232
+{: .persubinfo }
+
 -  VU:W 67(1999)impf; 68 no.2(2000)+
 
 ### Southwestern Journal of Theology
 
-#### Fort Worth, Texas (Southwestern Baptist Theological Seminary) 1(O 1958)+; ISSN: 0038-4828; Indexed by ATLA
+Fort Worth, Texas (Southwestern Baptist Theological Seminary) 1(O 1958)+; ISSN: 0038-4828; Indexed by ATLA
+{: .persubinfo }
+
 -  NBTH 3-4(1961) impf; 10-17(1967-1974); 19(1976)+
 -  QBTH 18-21(1976-1979); 23(1981)+
 -  WB 4/1(1961); 15/2(1973); 18/1-19/1(1975-1976); 20/1(1977)+
@@ -1039,7 +1291,9 @@ menu: barq
 
 ### Southwestern News
 
-#### Fort Worth, Texas (Southwestern Baptist Theological Seminary) ISSN: 0038-4917
+Fort Worth, Texas (Southwestern Baptist Theological Seminary) ISSN: 0038-4917
+{: .persubinfo }
+
 -  ZABT 1986+ impf
 
 ### Spurgeons College Record
@@ -1058,7 +1312,7 @@ menu: barq
 
 ### The Student
 
-  - Nashville (Southern Baptist Convention)
+#### Nashville (Southern Baptist Convention)
 -  ZABT 50-59(1970-1979) impf
 
 ### Summa Supremo: Journal of NSW Baptist Theological College Students Association

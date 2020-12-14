@@ -2279,3 +2279,12 @@ a.nodecoration {text-decoration: none;}
 .churches {width: 60%;}
 .churches td {padding-top: 4pt ;padding-bottom:4pt}
 .out-print {color:red;font-weight:bold;}
+.bk-thumb {float:left;clear:left;padding-right:10px;}
+.bk-thumb > img {height:80px;}
+.pubs li {clear:left;}
+p.min-txt {margin-top: 0cm;margin:0;padding:0;margin-left: 1.4cm; text-indent: -1cm;}
+p.min-head {font-weight:bold;margin: 0;font-size:14pt}
+.spaceb4 {margin: 2em 0 1em 0 }
+.min-years {width: 40%}
+.min-years  td {padding-top: 4pt ;padding-bottom:4pt}
+.persubinfo {font-weight:600;font-size:105%;margin: 2pt 0 3pt 0;font-weight:bold}

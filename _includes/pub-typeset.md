@@ -1,3 +1,4 @@
+{%- assign ttitle = item.Title | normalize_whitespace | strip_newlines -%}
 {%- assign tsubtitle = item.Subtitle | strip_newlines -%}
 {%- assign tauthor = item.Author | strip_newlines | replace: ' ', '&nbsp;' -%}
 {%- assign tyear = item.Author | strip_newlines -%}
@@ -14,7 +15,9 @@
 {%- assign tship = item.Shipping | strip_newlines -%}
 {%- assign tpod = item.POD | strip_newlines -%}
 {%- assign toop = item.OOP | strip_newlines -%}
+{%- assign timage = item.Image | strip_newlines -%}
 
+{%- if timage != "" -%}<div class="bk-thumb"><img src="/images/thumbs/{{- timage -}}" alt="{{- ttitle -}}"/></div>{%- endif -%}
 <span class="title">{{ item.Title | normalize_whitespace | strip_newlines }}</span>
 {%- if tsubtitle != "" -%}<span class="subtitle"> &mdash; {{- item.Subtitle | strip_newlines | normalize_whitespace -}}</span> {%- endif -%}
 {%- if tauthor != "" -%}<span class="author">&ensp;&#x25CF;&ensp;{{- tauthor  -}} </span>{%- endif -%}
