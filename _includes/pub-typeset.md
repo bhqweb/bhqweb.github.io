@@ -12,6 +12,9 @@
 {%- assign surl = item.URL | strip_newlines | split: '/' -%}
 {%- assign tcost = item.Cost | strip_newlines -%}
 {%- assign tship = item.Shipping | strip_newlines -%}
+{%- assign tpod = item.POD | strip_newlines -%}
+{%- assign toop = item.OOP | strip_newlines -%}
+
 <span class="title">{{ item.Title | normalize_whitespace | strip_newlines }}</span>
 {%- if tsubtitle != "" -%}<span class="subtitle"> &mdash; {{- item.Subtitle | strip_newlines | normalize_whitespace -}}</span> {%- endif -%}
 {%- if tauthor != "" -%}<span class="author">&ensp;&#x25CF;&ensp;{{- tauthor  -}} </span>{%- endif -%}
@@ -25,4 +28,5 @@
 {%- if tfeatures != "" -%}<span class="pubfeatures">&ensp; {{ item.Features }} </span>{%- endif -%}
 {%- if turl != ""  -%}<span class="url"><a href="{{- turl -}}" alt="Lulu" style="display:inline">{{- surl[2] -}}</a> </span>{%- endif -%}
 {%- if tcost != "" -%}<span class="price">&ensp; {{ tcost }} </span>{%- endif -%}
-{%- if tship != "" -%}<span class="shipping"> plus {{ tship | number_to_currency: precision: 2 }} postage</span>{%- endif -%}
+{%- if tship != "" -%}<span class="shipping"> plus {{ tship  }} postage</span>{%- endif -%}
+{%- if toop != "" -%}<span class="out-print">&ensp; Out&nbsp;of&nbsp;print!</span>{%- endif -%}
