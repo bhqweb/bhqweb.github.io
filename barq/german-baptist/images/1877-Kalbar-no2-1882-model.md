@@ -1,6 +1,7 @@
 ---
 title: 1877 Kalbar no2 1882 model
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: 1877-Kalbar-no2-1882-model.jpg
 prev: 1877-Kalbar-no1.html

@@ -1,6 +1,7 @@
 ---
 title: 1878 Boonah a orignal
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: 1878-Boonah-a-orignal.jpg
 prev: 1877-Kalbar-no4-1964.html

@@ -1,6 +1,7 @@
 ---
 title: 1865 Black Gully
-layout: image
+layout: default
+display: image
 album: German Baptist Churches Album
 image: 1865-Black_Gully.jpg
 prev: 1860-German_Station-old-chapel.html
