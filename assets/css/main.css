@@ -2275,7 +2275,7 @@ button,
 .title {font-weight:bold;font-style:italic}
 .subtitle {font-weight:bold;font-style:italic}
 .price, .shipping {font-weight:bold;}
-a.nodecoration {text-decoration: none;}
+a.nodecoration {border-bottom:  none;}
 .churches {width: 60%;}
 .churches td, .forum1-80 td {padding-top: 4pt ;padding-bottom:4pt}
 .out-print {color:red;font-weight:bold;}
