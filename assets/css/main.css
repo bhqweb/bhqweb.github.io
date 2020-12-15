@@ -2271,7 +2271,7 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
-.pubs li {padding-bottom: 10px;width:800px;}
+.pubs li {padding-bottom: 10px;max-width:800px;}
 .title {font-weight:bold;font-style:italic}
 .subtitle {font-weight:bold;font-style:italic}
 .price, .shipping {font-weight:bold;}
