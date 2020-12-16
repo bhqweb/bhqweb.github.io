@@ -14,7 +14,7 @@ The holdings consist mainly of the records of the [Baptist Union of Queensland]
 
 Please note that most local church records are, according to Baptist administrative policy, in the hands of the churches of themselves (see your local telephone directory for contact details).
 
-The denominational newspaper, The Queensland Baptist, has been published since 1881 (with some breaks and name changes). The years up to 1990 are available on searchable CD-ROM. Digital and print copies since 1990 are also available.
+The denominational newspaper, *The Queensland Baptist*, has been published since 1881 (with some breaks and name changes). The years up to 1990 are available on searchable CD-ROM. Digital and print copies since 1990 are also available.
 
 The denominational year books 1907-2005 are also on CD-ROM. These may be purchased from the Baptist Church Archives Qld or from the publisher -  [click here for details](http://www.archivecdbooks.com.au/Religion-s/48.htm)
 
