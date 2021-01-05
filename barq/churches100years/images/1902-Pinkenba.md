@@ -2,6 +2,7 @@
 title: 1902 Pinkenba
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1902-Pinkenba.jpg
 prev: 1902-Mount-Morgan.html

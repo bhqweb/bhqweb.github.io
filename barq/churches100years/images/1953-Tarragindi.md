@@ -2,6 +2,7 @@
 title: 1953 Tarragindi
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1953-Tarragindi.jpg
 prev: 1953-Redland-Bay-renov.html

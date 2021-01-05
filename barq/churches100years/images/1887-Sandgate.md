@@ -2,6 +2,7 @@
 title: 1887 Sandgate
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1887-Sandgate.jpg
 prev: 1886-Bulimba.html

@@ -2,6 +2,7 @@
 title: 1920 Yandina
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1920-Yandina.jpg
 prev: 1920-Lindum.html

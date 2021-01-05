@@ -2,6 +2,7 @@
 title: 1872 Enoggera
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1872-Enoggera.jpg
 prev: 1866-Edward-Street.html

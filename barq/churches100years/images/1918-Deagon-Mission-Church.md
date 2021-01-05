@@ -2,6 +2,7 @@
 title: 1918 Deagon Mission Church
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1918-Deagon-Mission-Church.jpg
 prev: 1916-Speedwell-laterProston.html

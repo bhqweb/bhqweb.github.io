@@ -2,6 +2,7 @@
 title: 1893 Townsville 1875
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1893-Townsville-1875.jpg
 prev: 1891-Taringa.html

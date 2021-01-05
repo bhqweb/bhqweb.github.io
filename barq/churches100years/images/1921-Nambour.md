@@ -2,6 +2,7 @@
 title: 1921 Nambour
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1921-Nambour.jpg
 prev: 1921-Murgon.html

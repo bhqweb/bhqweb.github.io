@@ -2,6 +2,7 @@
 title: 1905 West Rockhampton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1905-West-Rockhampton.jpg
 prev: 1902-Tent-Hill.html

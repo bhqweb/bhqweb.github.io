@@ -2,6 +2,7 @@
 title: 1919 Newmarket Grange
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1919-Newmarket-Grange.jpg
 prev: 1918-Deagon-Mission-Church.html

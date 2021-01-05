@@ -2,6 +2,7 @@
 title: 1955 Biloela
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1955-Biloela.jpg
 prev: 1954-Manly-Lota-Wynnum.html

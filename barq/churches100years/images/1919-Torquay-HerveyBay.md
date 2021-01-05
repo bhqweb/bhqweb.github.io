@@ -2,6 +2,7 @@
 title: 1919 Torquay HerveyBay
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1919-Torquay-HerveyBay.jpg
 prev: 1919-Newmarket-Grange.html

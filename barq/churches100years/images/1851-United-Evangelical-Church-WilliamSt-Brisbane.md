@@ -2,6 +2,7 @@
 title: 1851 United Evangelical Church WilliamSt Brisbane
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1851-United-Evangelical-Church-WilliamSt-Brisbane.jpg
 prev: 

@@ -2,6 +2,7 @@
 title: 1933 Greenslopes
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1933-Greenslopes.jpg
 prev: 1932-Wood-Street-Rockhampton.html

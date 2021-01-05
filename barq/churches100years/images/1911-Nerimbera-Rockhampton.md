@@ -2,6 +2,7 @@
 title: 1911 Nerimbera Rockhampton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1911-Nerimbera-Rockhampton.jpg
 prev: 1910-Coorparoo.html

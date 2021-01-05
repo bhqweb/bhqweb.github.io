@@ -2,6 +2,7 @@
 title: 1924 Woodford
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1924-Woodford.jpg
 prev: 1924-Cloyna.html

@@ -2,6 +2,7 @@
 title: 1932 Thangool
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1932-Thangool.jpg
 prev: 1932-Bunyaville-older.html

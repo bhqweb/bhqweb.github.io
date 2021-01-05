@@ -2,6 +2,7 @@
 title: 1914 Lakes Creek Rockhampton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1914-Lakes-Creek-Rockhampton.jpg
 prev: 1913-Churchill.html

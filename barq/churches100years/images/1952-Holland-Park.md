@@ -2,6 +2,7 @@
 title: 1952 Holland Park
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1952-Holland-Park.jpg
 prev: 1952-Currajong-Townsville.html

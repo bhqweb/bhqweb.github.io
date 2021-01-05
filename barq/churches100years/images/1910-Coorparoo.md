@@ -2,6 +2,7 @@
 title: 1910 Coorparoo
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1910-Coorparoo.jpg
 prev: 1909-Charlwood-BC-.html

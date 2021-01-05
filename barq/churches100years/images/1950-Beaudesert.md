@@ -2,6 +2,7 @@
 title: 1950 Beaudesert
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1950-Beaudesert.jpg
 prev: 1950-Allora.html

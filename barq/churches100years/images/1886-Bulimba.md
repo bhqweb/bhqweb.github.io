@@ -2,6 +2,7 @@
 title: 1886 Bulimba
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1886-Bulimba.jpg
 prev: 1885-Maryborough.html

@@ -2,6 +2,7 @@
 title: 1927 Graceville
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1927-Graceville.jpg
 prev: 1926-Wynnum-West-Mission.html

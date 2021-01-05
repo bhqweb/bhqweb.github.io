@@ -2,6 +2,7 @@
 title: 1899 Gympie Apollonian Vale
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1899-Gympie-Apollonian-Vale.jpg
 prev: 1897-Beaudesert.html

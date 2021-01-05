@@ -2,6 +2,7 @@
 title: 1924 Cloyna
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1924-Cloyna.jpg
 prev: 1923-Nundah-Memorial.html

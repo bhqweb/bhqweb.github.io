@@ -2,6 +2,7 @@
 title: 1902 Mount Morgan
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1902-Mount-Morgan.jpg
 prev: 1900-Canungra.html

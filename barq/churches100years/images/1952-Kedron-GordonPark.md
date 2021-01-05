@@ -2,6 +2,7 @@
 title: 1952 Kedron GordonPark
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1952-Kedron-GordonPark.jpg
 prev: 1952-Holland-Park.html

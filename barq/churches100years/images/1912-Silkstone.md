@@ -2,6 +2,7 @@
 title: 1912 Silkstone
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1912-Silkstone.jpg
 prev: 1912-Port-Curtis-Rd-Rockhampton.html

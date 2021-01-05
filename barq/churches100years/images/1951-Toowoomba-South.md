@@ -2,6 +2,7 @@
 title: 1951 Toowoomba South
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1951-Toowoomba-South.jpg
 prev: 1951-Tent-Hill.html

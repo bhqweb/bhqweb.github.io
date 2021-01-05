@@ -2,6 +2,7 @@
 title: 1874 Hendra Clayfield
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1874-Hendra-Clayfield.jpg
 prev: 1873-Lanefield.html

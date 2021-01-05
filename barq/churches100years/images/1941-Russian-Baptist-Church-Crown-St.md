@@ -2,6 +2,7 @@
 title: 1941 Russian Baptist Church Crown St
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1941-Russian-Baptist-Church-Crown-St.jpg
 prev: 1941-Ashgrove.html

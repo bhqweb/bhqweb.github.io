@@ -2,6 +2,7 @@
 title: 1954 Belmont
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1954-Belmont.jpg
 prev: 1953-Tarragindi.html

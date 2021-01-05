@@ -2,6 +2,7 @@
 title: 1936 North Rockhampton High St
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1936-North-Rockhampton-High-St.jpg
 prev: 1936-NormanPark.html

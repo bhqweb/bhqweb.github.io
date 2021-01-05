@@ -2,6 +2,7 @@
 title: 1889 Charters Towers
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1889-Charters-Towers.jpg
 prev: 1888-Windsor-Rd.html

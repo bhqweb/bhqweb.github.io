@@ -2,6 +2,7 @@
 title: 1933 Selene
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1933-Selene.jpg
 prev: 1933-Greenslopes.html

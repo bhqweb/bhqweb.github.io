@@ -2,6 +2,7 @@
 title: 1859 Wharf St
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1859-Wharf-St.jpg
 prev: 1851-United-Evangelical-Church-WilliamSt-Brisbane.html

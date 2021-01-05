@@ -2,6 +2,7 @@
 title: 1926 Wynnum West Mission
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1926-Wynnum-West-Mission.jpg
 prev: 1926-Gordon-Park.html

@@ -2,6 +2,7 @@
 title: 1937 Gatton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1937-Gatton.jpg
 prev: 1936-North-Rockhampton-High-St.html

@@ -2,6 +2,7 @@
 title: 1952 Russian Baptist Church Crown St
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1952-Russian-Baptist-Church-Crown-St.jpg
 prev: 1952-RockhamptonWest.html

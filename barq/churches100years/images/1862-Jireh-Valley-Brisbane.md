@@ -2,6 +2,7 @@
 title: 1862 Jireh Valley Brisbane
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1862-Jireh-Valley-Brisbane.jpg
 prev: 1862-Bulimba.html

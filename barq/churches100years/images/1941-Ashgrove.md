@@ -2,6 +2,7 @@
 title: 1941 Ashgrove
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1941-Ashgrove.jpg
 prev: 1940-Maroochydore.html

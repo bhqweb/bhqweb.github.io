@@ -2,6 +2,7 @@
 title: 1953 Gayndah
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1953-Gayndah.jpg
 prev: 1952-Tin-Can-Bay.html

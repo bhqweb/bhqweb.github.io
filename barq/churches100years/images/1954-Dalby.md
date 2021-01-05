@@ -2,6 +2,7 @@
 title: 1954 Dalby
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1954-Dalby.jpg
 prev: 1954-Belmont.html

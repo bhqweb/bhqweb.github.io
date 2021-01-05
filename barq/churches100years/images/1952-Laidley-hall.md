@@ -2,6 +2,7 @@
 title: 1952 Laidley hall
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1952-Laidley-hall.jpg
 prev: 1952-Kingaroy-MarkwellSt.html

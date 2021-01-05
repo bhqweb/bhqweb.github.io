@@ -2,6 +2,7 @@
 title: 1940 Maroochydore
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1940-Maroochydore.jpg
 prev: 1940-Fairfield.html

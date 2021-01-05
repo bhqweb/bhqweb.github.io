@@ -2,6 +2,7 @@
 title: 1948 Goomeri
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1948-Goomeri.jpg
 prev: 1947-Roadvale-Kalbar.html

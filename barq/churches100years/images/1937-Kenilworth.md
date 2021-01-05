@@ -2,6 +2,7 @@
 title: 1937 Kenilworth
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1937-Kenilworth.jpg
 prev: 1937-Gatton.html

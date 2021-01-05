@@ -2,6 +2,7 @@
 title: 1866 Edward Street
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1866-Edward-Street.jpg
 prev: 1865-Fairfield-later-Annerley.html

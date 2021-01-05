@@ -2,6 +2,7 @@
 title: 1934 Durong
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1934-Durong.jpg
 prev: 1933-Selene.html

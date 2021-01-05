@@ -2,6 +2,7 @@
 title: 1876 Fortestcue St later Nundah
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1876-Fortestcue-St-later-Nundah.jpg
 prev: 1874-Vulture-St-South-Brisbane.html

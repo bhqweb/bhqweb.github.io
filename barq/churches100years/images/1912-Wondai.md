@@ -2,6 +2,7 @@
 title: 1912 Wondai
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1912-Wondai.jpg
 prev: 1912-Warwick.html

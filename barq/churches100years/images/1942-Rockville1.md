@@ -2,6 +2,7 @@
 title: 1942 Rockville1
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1942-Rockville1.jpg
 prev: 1941-Russian-Baptist-Church-Crown-St.html

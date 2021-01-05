@@ -2,6 +2,7 @@
 title: 1864 Rockhampton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1864-Rockhampton.jpg
 prev: 1862-Jireh-Valley-Brisbane.html

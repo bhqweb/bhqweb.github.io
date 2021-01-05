@@ -2,6 +2,7 @@
 title: 1873 Lanefield
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1873-Lanefield.jpg
 prev: 1872-Enoggera.html

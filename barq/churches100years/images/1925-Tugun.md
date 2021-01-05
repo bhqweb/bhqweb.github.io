@@ -2,6 +2,7 @@
 title: 1925 Tugun
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1925-Tugun.jpg
 prev: 1925-Rosalie.html

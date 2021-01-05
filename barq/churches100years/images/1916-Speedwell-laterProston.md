@@ -2,6 +2,7 @@
 title: 1916 Speedwell laterProston
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1916-Speedwell-laterProston.jpg
 prev: 1914-Maleny.html

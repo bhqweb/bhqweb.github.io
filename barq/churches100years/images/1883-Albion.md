@@ -2,6 +2,7 @@
 title: 1883 Albion
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1883-Albion.jpg
 prev: 1881-Toowoomba.html

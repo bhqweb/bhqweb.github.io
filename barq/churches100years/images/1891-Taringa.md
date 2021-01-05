@@ -2,6 +2,7 @@
 title: 1891 Taringa
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1891-Taringa.jpg
 prev: 1891-Hendra-Clayfield.html

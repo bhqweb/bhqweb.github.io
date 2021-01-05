@@ -2,6 +2,7 @@
 title: 1884 Rosalie
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1884-Rosalie.jpg
 prev: 1883-Albion.html

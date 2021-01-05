@@ -2,6 +2,7 @@
 title: 1955 Gatton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1955-Gatton.jpg
 prev: 1955-Bundaberg.html

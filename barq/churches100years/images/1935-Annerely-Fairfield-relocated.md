@@ -2,6 +2,7 @@
 title: 1935 Annerely Fairfield relocated
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1935-Annerely-Fairfield-relocated.jpg
 prev: 1934-Durong.html

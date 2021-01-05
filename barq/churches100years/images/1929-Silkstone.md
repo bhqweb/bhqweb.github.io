@@ -2,6 +2,7 @@
 title: 1929 Silkstone
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1929-Silkstone.jpg
 prev: 1928-PalmBeach.html

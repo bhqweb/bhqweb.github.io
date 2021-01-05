@@ -2,6 +2,7 @@
 title: 1936 Nanango
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1936-Nanango.jpg
 prev: 1936-Margate.html

@@ -2,6 +2,7 @@
 title: 1862 Bulimba
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1862-Bulimba.jpg
 prev: 1860-Ipswich.html

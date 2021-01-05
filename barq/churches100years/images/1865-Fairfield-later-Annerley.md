@@ -2,6 +2,7 @@
 title: 1865 Fairfield later Annerley
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1865-Fairfield-later-Annerley.jpg
 prev: 1864-Rockhampton.html

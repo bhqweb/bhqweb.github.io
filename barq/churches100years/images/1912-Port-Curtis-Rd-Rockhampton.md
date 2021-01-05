@@ -2,6 +2,7 @@
 title: 1912 Port Curtis Rd Rockhampton
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1912-Port-Curtis-Rd-Rockhampton.jpg
 prev: 1911-Nerimbera-Rockhampton.html

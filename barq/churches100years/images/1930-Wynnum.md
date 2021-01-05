@@ -2,6 +2,7 @@
 title: 1930 Wynnum
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1930-Wynnum.jpg
 prev: 1930-Monto.html

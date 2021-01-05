@@ -2,6 +2,7 @@
 title: 1906 RedlandBay
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1906-RedlandBay.jpg
 prev: 1905-West-Rockhampton.html

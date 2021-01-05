@@ -2,6 +2,7 @@
 title: 1874 Vulture St South Brisbane
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1874-Vulture-St-South-Brisbane.jpg
 prev: 1874-Hendra-Clayfield.html

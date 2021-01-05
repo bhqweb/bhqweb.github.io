@@ -2,6 +2,7 @@
 title: 1936 Cairns
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1936-Cairns.jpg
 prev: 1935-Annerely-Fairfield-relocated.html

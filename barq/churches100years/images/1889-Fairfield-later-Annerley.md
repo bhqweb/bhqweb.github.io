@@ -2,6 +2,7 @@
 title: 1889 Fairfield later Annerley
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1889-Fairfield-later-Annerley.jpg
 prev: 1889-Charters-Towers.html

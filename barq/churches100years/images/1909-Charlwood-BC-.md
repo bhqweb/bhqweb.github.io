@@ -2,6 +2,7 @@
 title: 1909 Charlwood BC 
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1909-Charlwood-BC-.jpg
 prev: 1908-Highfields.html

@@ -2,6 +2,7 @@
 title: 1888 Dinmore52
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1888-Dinmore52.jpg
 prev: 1887-Sandgate.html
