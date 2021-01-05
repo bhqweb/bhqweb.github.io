@@ -3,8 +3,12 @@
   {% for menu in site.data.menu %}
     {% include menulist.html %}
   {% endfor %}
-{% else %}
+{% elsif page.menu == 'barq' %}
   {% for menu in site.data.menu-barq %}
+    {% include menulist.html %}
+  {% endfor %}
+{% elsif page.menu == 'ng' %}
+  {% for menu in site.data.menu-ng%}
     {% include menulist.html %}
   {% endfor %}
 {% endif %}
