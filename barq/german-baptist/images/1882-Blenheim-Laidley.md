@@ -2,6 +2,7 @@
 title: 1882 Blenheim Laidley
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1882-Blenheim-Laidley.jpg
 prev: 1882-Blenheim-a.html

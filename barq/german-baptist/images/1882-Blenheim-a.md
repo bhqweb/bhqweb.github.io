@@ -2,6 +2,7 @@
 title: 1882 Blenheim a
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1882-Blenheim-a.jpg
 prev: 1880-Minden-1907.html

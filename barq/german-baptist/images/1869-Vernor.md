@@ -2,6 +2,7 @@
 title: 1869 Vernor
 layout: default
 display: image
+menu: barq
 album: German Baptist Churches Album
 image: 1869-Vernor.jpg
 prev: 1869-Vernor-Tarampa-1926.html
