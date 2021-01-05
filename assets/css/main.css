@@ -2075,8 +2075,11 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #f56a6a;
-  padding: 1em 0 1em 0;
+  height: 5em;
+
+  background-color: #98012e;
+  /* border-bottom: solid 5px #f56a6a; */
+  padding: 1em 1em 1em 1em;
   position: relative; }
   #header > * {
     -moz-flex: 1;
@@ -2090,7 +2093,8 @@ button,
     font-family: "Roboto Slab", serif;
     font-size: 1.125em; }
   #header .icons {
-    text-align: right; }
+    text-align: right;
+    padding: 1em 1em 0 0 ; }
   @media screen and (max-width: 1680px) {
     #header {
       padding-top: 1em; } }
@@ -2104,8 +2108,9 @@ button,
         height: 5em;
         line-height: 5em;
         position: absolute;
-        right: -0.5em;
+        right: -0.8em;
         top: 0; } }
+#header strong {  color: white;}
 
 /* Banner */
 #banner {
@@ -2288,3 +2293,4 @@ p.min-head {font-weight:bold;margin: 0;font-size:14pt}
 .min-years {width: 40%}
 .min-years  td {padding-top: 4pt ;padding-bottom:4pt}
 .persubinfo {font-weight:600;font-size:105%;margin: 2pt 0 3pt 0;font-weight:bold}
+#breadcrumbs  {font-size: 80%;}
