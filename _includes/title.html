@@ -1,9 +1,10 @@
-{%- if page.menu == 'bhq' -%}
-  Baptist Heritage Queensland
-{%- else -%}
+{%- case page.menu -%}
+{%- when "bhq" -%}Baptist Heritage Queensland
+{%- when "barq" -%}
   {%- if page.display == 'image' -%}
     {{ page.title }}
   {%- else -%}
     Baptist Church Archives Queensland
   {%- endif -%}
-{%- endif -%}
+{%- when "ng" -%}National Guide
+{%- endcase -%}
