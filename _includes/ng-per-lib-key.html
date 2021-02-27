@@ -1,0 +1,14 @@
+<table class="libraries">
+  <tr>
+    <th>Key</th>
+    <th>Library</th>
+  </tr>
+{% assign libraries = site.data.ng-libKey %}
+{% for item in libraries %}
+  <tr>
+  <td>{{ item.key }}</td>
+  <td>{{ item.library }}</td>
+
+  </tr>
+{%- endfor -%}
+</table>

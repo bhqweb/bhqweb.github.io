@@ -1,0 +1,41 @@
+<!-- 1st level -->
+<ul class="ngper">
+  {% for periodical in site.data.per-lib-indx %}
+  
+  <li>
+  <span class="ngpertitle">{{ periodical.per }}</span> 
+  {% if periodical.fr != null %}
+  <span class="ngperloc"> {{periodical.fr}}</span>
+  {% endif %}
+    {% if periodical.issn != null %}
+  <span class="ngperissn">ISSN: {{periodical.issn}}</span>
+  {% endif %}
+      {% if periodical.ab != null %}
+  <span class="ngperabout"> {{periodical.ab}}</span>
+  {% endif %}
+  {% if periodical.sub != null %}
+    <ul class="ngper">
+      <!-- 2nd level -->
+      {% for sub in periodical.sub %}
+      <li>
+        {% if sub.lib != null %}
+          <span class="ngperlib"> {{sub.lib}}</span>
+        {% endif %}
+        {% if sub.vol != null %}
+          <span class="ngpervol"> {{sub.vol}}</span>
+        {% endif %}
+        {% if sub.yrs != null %}
+          <span class="ngperyears"> ({{sub.yrs}})</span>
+        {% endif %}
+        {% if sub.ext != null %}
+          <span class="ngperext"> {{sub.ext}}</span>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+     {% endif %}
+  </li>
+  {% endfor %}
+</ul>
+
+
