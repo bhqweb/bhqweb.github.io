@@ -1,4 +1,4 @@
-## {{ page.title }}
+
 
 <ul>
 {% assign items_grouped = site.data.Books | group_by: 'Type'  %}

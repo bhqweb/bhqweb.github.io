@@ -6,4 +6,6 @@ filter: Type
 fvalue: monograph
 ---
 
+## {{ page.title }}
+
 {% include pub-filter-type.md %} 

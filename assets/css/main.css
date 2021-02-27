@@ -2294,3 +2294,6 @@ p.min-head {font-weight:bold;margin: 0;font-size:14pt}
 .min-years  td {padding-top: 4pt ;padding-bottom:4pt}
 .persubinfo {font-weight:600;font-size:105%;margin: 2pt 0 3pt 0;font-weight:bold}
 #breadcrumbs  {font-size: 80%;}
+.ngpertitle {font-weight:bold;}
+ul.ngper {list-style-type:none;text-indent: -1em;margin:0;}
+.ngperlib {font-style:italic;font-weight:bold;}

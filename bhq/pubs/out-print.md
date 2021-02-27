@@ -6,4 +6,6 @@ filter: OOP
 fvalue: Out
 ---
 
+## {{ page.title }}
+
 {% include pub-filter-type.md %} 

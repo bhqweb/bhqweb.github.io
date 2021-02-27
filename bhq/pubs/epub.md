@@ -6,4 +6,6 @@ filter: Type
 fvalue: epub
 ---
 
+## {{ page.title }}
+
 {% include pub-filter-type.md %} 
