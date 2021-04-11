@@ -3,6 +3,8 @@
 
 Baptist Heritage Queensland (The Baptist Historical Society of Queensland) was established in 1984 to promote interest in the rich heritage of Baptists in Queensland, Australia. Since that time it has conducted many public meetings and seminars featuring families, people, organisations, buildings and movements which have contributed to Baptist work in this state. It has assisted people and churches with information and material about their stories. For a 30 year history of the Society, [click here](/pdf/History-BHQ-30.pdf).
 
+![Archive Panorama](images/archive-panorama.png)
+
 The Society aims to encourage churches and their members to preserve their heritage through the care of records and memorabilia at local church and at denominational levels. Several [guide sheets](/bhq/guides.html) offering help on the process of archival work, church record management and publication are available for free distribution, now including digital archiving. Personal advice and help through seminars and consultation with churches and other organisations are also part of the function of the Society. The Society also assists with the activities of the [Baptist Church Archives](/barq/index.html), Queensland.
 
 The Society also produces a newsletter, the Queensland Baptist Forum, which carries articles, news reports and notices about developments in Queensland and elsewhere.

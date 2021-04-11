@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forum Journal Extracts
-menu: barq
+menu: bhq
 ---
 
 ## {{ page.title }}
