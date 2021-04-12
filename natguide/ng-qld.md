@@ -107,7 +107,7 @@ Extremely limited number of personal papers of church leaders and some biographi
 
 <b>Digital Publications</b>
 
-{% include pub-filter-type2.html %} 
+{% include pub-filter-type2.html %}
 
 {% include ng-qld-tail.html %}
 
