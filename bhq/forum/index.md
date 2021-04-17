@@ -6,19 +6,25 @@ menu: bhq
 
 ## {{ page.title }}
 
-{% assign items_grouped = site.data.forum81plus | group_by: 'Vol' %}
+{% assign items_grouped = site.data.forum | group_by: 'Vol' %}
 {%- for group in items_grouped -%}
-{% assign vol = group.items[1].Vol | strip_newlines | normalize_whitespace %}
-{% assign year = group.items[1].Year | strip_newlines | normalize_whitespace %}
-{% assign month = group.items[1].Month | strip_newlines | normalize_whitespace %}
-{% assign file = group.items[1].file | strip_newlines | normalize_whitespace %}
-### Forum {{ vol }} &mdash; {% include month.md %} {{ year }} 
+{% assign vol = group.items[0].Vol | strip_newlines | normalize_whitespace %}
+{% assign year = group.items[0].Year | strip_newlines | normalize_whitespace %}
+{% assign month = group.items[0].Month | strip_newlines | normalize_whitespace %}
+{% assign file = group.items[0].file | strip_newlines | normalize_whitespace %}
+{% assign ext = group.items[0].file | slice: -3,3 %}
+{% assign title = group.items[0].Title | strip_newlines | normalize_whitespace %}
+### Forum {{ vol }} &mdash; {% include month.md %} {{ year }}
 
 
 
 <ul>
-{% if file != "" %}<li><a href="/pdf/{{- file -}}">view PDF</a></li>{% endif %}
+
+{% if ext == "pdf" %}<li><a href="/pdf/{{- file -}}">view PDF</a></li>{% endif %}
+{% if ext == ".md" %}<li><a href="/bhq/forum/volumes/{{- file | replace: ".md",".html" -}}">view file</a></li>{% endif %}
+
 {%- for item in group.items -%}
+{% if item.Order != "0" %}
 <li> <span class="title">{{ item.Title | normalize_whitespace | strip_newlines }}</span>
 {% assign test1 = item.SubTitle | strip_newlines %}
 {%- if test1 != "" -%}<span class="subTitle"> &mdash; {{ item.SubTitle | strip_newlines | normalize_whitespace }}</span> {%- endif -%}
@@ -26,6 +32,7 @@ menu: bhq
 <span class="author">&#x25CF; {{ item.Author | strip_newlines | normalize_whitespace }} </span>
 {%- endif -%}
 </li>
+{%- endif -%}
 {%- endfor -%} 
 </ul>
 {%- endfor -%}
