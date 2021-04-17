@@ -8,6 +8,7 @@ fvalue2: epub
 ---
 
 ![Faces](/images/biblio.jpg)
+
 ## {{ page.title}}
 
 ![Queensland Baptist](/images/qb-icon.png)
