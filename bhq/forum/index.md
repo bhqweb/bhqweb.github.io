@@ -6,6 +6,8 @@ menu: bhq
 
 ## {{ page.title }}
 
+To search press Ctrl and F, then type your search word, then press enter.
+
 {% assign items_grouped = site.data.forum | group_by: 'Vol' %}
 {%- for group in items_grouped -%}
 {% assign vol = group.items[0].Vol | strip_newlines | normalize_whitespace %}

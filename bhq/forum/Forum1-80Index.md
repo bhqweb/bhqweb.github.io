@@ -6,6 +6,8 @@ menu: bhq
 
 {{ page.title }}
 
+To search press Ctrl and F, then type your search word, then press enter.
+
 {% assign list = site.data.Forum1-80Index %}
 <table class="forum1-80">
   <tr>
