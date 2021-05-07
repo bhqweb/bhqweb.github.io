@@ -12,6 +12,8 @@ The Archives is open only by appointment:
 
 The holdings consist mainly of the records of the [Baptist Union of Queensland](http://www.qb.com.au/) (minutes, year books, publications, newsletters, photographs etc) as well records of a number of (mainly defunct) churches, personal and family items and other material of a general historical nature.
 
+![compactus](/images/archive-compactus.jpg) ![scanner](/images/PhotoDigitizationWS2-s.jpg)
+
 Please note that most local church records are, according to Baptist administrative policy, in the hands of the churches of themselves (see your local telephone directory for contact details).
 
 The denominational newspaper, *The Queensland Baptist*, has been published since 1881 (with some breaks and name changes). The years up to 1990 are available on searchable CD-ROM. Digital and print copies since 1990 are also available.
