@@ -7,6 +7,9 @@ epuburl: https://www.lulu.com
 
 ## {{ page.title }}
 
+
+{% include book-order-info.md %} 
+
 <ul>
 {% assign items_grouped = site.data.Books | group_by: 'Type' %}
 {%- for group in items_grouped -%}

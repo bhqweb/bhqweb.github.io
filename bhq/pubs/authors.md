@@ -6,6 +6,9 @@ menu: bhq
 
 ## {{ page.title }}
 
+
+{% include book-order-info.md %} 
+
 <ul>
 {% assign items_grouped = site.data.Books | sort: 'AuthorLast' | group_by: 'AuthorLast' %}
 {%- for group in items_grouped -%}
