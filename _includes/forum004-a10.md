@@ -1,4 +1,4 @@
-## BAPTIST ARCHIVES, OUEENSLAND
+## Baptist Archives, Oueensland
 
 The Baptist Union Archives is gradually collecting a
 considerable quantity of valuable material. The Archives exists

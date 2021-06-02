@@ -1,4 +1,4 @@
-## BDDK REVIEW
+## Book Review
 
 *The English Baptists of the 17th Century, by B.R. White.*\\
 *(London, Baptist Historical Society, 1983)*
