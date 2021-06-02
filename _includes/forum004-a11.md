@@ -1,6 +1,6 @@
 ## Coming Events
 
-### Celebration Uf German Baptist Witness
+### Celebration of German Baptist Witness
 
 28 June l9B6 at Laidley Baptist Church
 

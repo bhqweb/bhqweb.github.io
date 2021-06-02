@@ -1,4 +1,4 @@
-## Baptist Archives, Oueensland
+## Baptist Archives, Queensland
 
 The Baptist Union Archives is gradually collecting a
 considerable quantity of valuable material. The Archives exists
@@ -34,19 +34,19 @@ Some churches have produced historical booklets about their
 churches. The Archives possesses several of these, but not
 necessarily all of them. The 'lnventory' also invites churches to
 donate a copy of their official history as this can also be of great
-assistance when answering questions about churches
+assistance when answering questions about churches.
 
 For the convenience of readers, the following is a list of
 churches whose histories are in the Archives:\\
 Albion (40yrs), Annerley (to 1945 & 1965), Bundaberg (1970),\\
-City 7abernacle {1955), Enoggera (19/2), Geebung (1973),\\
+City Tabernacle {1955), Enoggera (19/2), Geebung (1973),\\
 Greenslopes (1970), Ipswich (1909), Jireh (1961), Kalbar\\
 (1925), Laidley (1982), Margate (1961), Maryborough-Fort St.\\
-(1933), Moore Fark (1962), Naubour (1960), Nundah (1923),\\
-Peace Nenorial, Petrie Terrace (1970), Rosalie (1984)\\
+(1933), Moore Fark (1962), Nambour (1960), Nundah (1923),\\
+Peace Menorial, Petrie Terrace (1970), Rosalie (1984)\\
 Sandgate (1932,1972), South Brisbane (1997,1972), Taringa\\
 (1939), (Toowong (1930), Toowoomba (1975), Wavell Heights\\
-(1985}, wynnun (1964)
+(1985}, Wynnun (1964)
 
 A number of theological college students have prepared church
 histories for their graduation theses
