@@ -24,7 +24,7 @@ The other project is an investigation of the nature of Baptist
 church buildings over the years. This is being done from the point of
 view of what the style and form of the buildings indicates about
 Baptist life and beliefs. There is quite a variety of buildings to be
-seen today and to have an in·depth analysis of them will prove to be
+seen today and to have an inÂ·depth analysis of them will prove to be
 interesting and should result in a clearer perception of the
 importance influence they can have.
 

@@ -22,7 +22,7 @@ churches and families. If the BHSSI knows what records exists and
 whether or not they are accessible, the process of answering these
 enquiries would be facilitated.
 
-The Baptist Archives collection is now listed in the “Register
+The Baptist Archives collection is now listed in the â€œRegister
 of Church Archives' which is published by the Church Archivists'
 Society. This valuable book contains details of the contents and
 accessibility of collections of historical materials from all over

@@ -6,7 +6,7 @@ historical theme. (see BHSQ Newsletter No 21 A total of 7 entries was
 received covering Baptist work in 3 states, but none from Queensland!
 The essays featured the stories of individual churches, a Baptist
 Union. and an individual. The churches were Undercliffe and
-Riverstone∑5chofields in NSW and Moonee Ponds and Kyneton in Victoria;
+Riverstone¬∑5chofields in NSW and Moonee Ponds and Kyneton in Victoria;
 an account of church extension work in South Australia focused on the
 Baptist Union there and Rev Alan Webb a promoter of the formation of
 Union in NSW was the subject of another.
@@ -26,9 +26,9 @@ newsletter deal with interesting aspects of transferring of members
 from one church to another at the turn of the century and outreach to
 Asian immigrants during the 19th century.
 
-Some back issues of îThe Recorderì are housed in the Oueensland
+Some back issues of ‚ÄùThe Recorder‚Äú are housed in the Oueensland
 Baptist archives. For correspondence with the NSW Society, write, c/-
 hurling College, l20 Herring Rd, Eastwood. NSU. 2122. Their next
-meeting features the presentation, ìLooking towards the 150th
+meeting features the presentation, ‚ÄúLooking towards the 150th
 Anniversary of the Central Church (Sydneyl' and will be their annual
 meeting.

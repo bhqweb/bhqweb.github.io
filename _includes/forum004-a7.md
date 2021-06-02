@@ -8,7 +8,7 @@ Oxford uncovers a lot of new information about the very earliest days
 of the Baptist denomination. For example, one of the two groups, the
 General Baptists, taught that there were three orders of ministry -
 the familiar deacons and pastors lor elders as they were usually
-called) and 'messengersì who had a wider ministry than the local
+called) and 'messengers‚Äú who had a wider ministry than the local
 church and cohcentrated on church planting , but also exercised a
 superintendency function and liased with other churches.
 
@@ -24,12 +24,12 @@ the evolution of some of these documents is one of the most helpful
 features of Dr Uhite's book.
 
 Another interesting part of the book deals with some of the
-early evangelists. They were quite notorious for their îlively and
-chaotic' meetings which attracted quite a few members of ìother more
+early evangelists. They were quite notorious for their ‚Äùlively and
+chaotic' meetings which attracted quite a few members of ‚Äúother more
 staid congregations' to share the 'excitement of the preaching and
 doctrinal debates.' Dne novel procedure which might not be worth
 copying these days was to have several speakers on the platform and to
-let the congregation îshout out their preferences among the preachers
+let the congregation ‚Äùshout out their preferences among the preachers
 on offer'! Questions and interjections were permitted during and
 after the sermons.
 

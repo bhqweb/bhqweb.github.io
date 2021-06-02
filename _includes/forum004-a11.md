@@ -41,7 +41,7 @@ Individuals, churches and other groups are invited to
 support the Baptist Historical Society of Queensland by
 becoming members. Membership subscriptions are the only
 regular source of finances. Members receive the BHSG
-Newsletter, and are able to join in the Society’s
+Newsletter, and are able to join in the Societyâ€™s
 activities and have a good opportunity to contribute to its
 historical work.
 
