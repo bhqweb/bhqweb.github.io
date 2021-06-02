@@ -43,7 +43,7 @@ City Tabernacle {1955), Enoggera (19/2), Geebung (1973),\\
 Greenslopes (1970), Ipswich (1909), Jireh (1961), Kalbar\\
 (1925), Laidley (1982), Margate (1961), Maryborough-Fort St.\\
 (1933), Moore Fark (1962), Nambour (1960), Nundah (1923),\\
-Peace Menorial, Petrie Terrace (1970), Rosalie (1984)\\
+Peace Memorial, Petrie Terrace (1970), Rosalie (1984)\\
 Sandgate (1932,1972), South Brisbane (1997,1972), Taringa\\
 (1939), (Toowong (1930), Toowoomba (1975), Wavell Heights\\
 (1985}, Wynnun (1964)
