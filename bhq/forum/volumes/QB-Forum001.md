@@ -5,7 +5,7 @@ menu: bhq
 ---
 ## {{ page.title }}
 
-Articals from Forum Vol. 1
+Articles from Forum Vol. 1
 
 {% include forum001-a1.md %}
 {% include forum001-a2.md %}
