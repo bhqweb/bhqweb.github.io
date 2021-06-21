@@ -1,11 +1,23 @@
 ---
 layout: default
-title: QB Forum 1 - Sep 1984
+vol: 1
+fdate: September 1984
+sec: Rev. O.M. Gregory
 menu: bhq
 ---
-## {{ page.title }}
+# Baptist Historical Society of Queensland
+## Newsletter
 
-Articles from Forum Vol. 1
+### No. {{ page.vol }} {{ page.fdate }}
+
+- Free to members
+- Membership $5. per annum
+
+---
+President: Dr. David Parker\\
+Secretary: {{ page.sec }}
+
+---
 
 {% include forum001-a1.md %}
 {% include forum001-a2.md %}
