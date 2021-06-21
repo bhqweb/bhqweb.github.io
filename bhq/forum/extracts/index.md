@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Forum Journal Articals and Extracts
+title: Forum Journal Articles and Extracts
 menu: bhq
 ---
 
@@ -23,5 +23,5 @@ menu: bhq
 {% assign file = group.items[0].file | strip_newlines | normalize_whitespace %}
 {% assign ext = group.items[0].file | slice: -3,3 %}
 {% if ext == "pdf" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/pdf/{{- file -}}">view PDF</a></li>{% endif %}
-{% if ext == ".md" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/bhq/forum/volumes/{{- file | replace: '.md' '.html' -}}">read.</a></li>{% endif %}
+{% if ext == ".md" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/bhq/forum/volumes/{{- file | replace: '.md', '.html' -}}">read.</a></li>{% endif %}
 {%- endfor -%}
