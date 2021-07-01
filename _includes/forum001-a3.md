@@ -18,7 +18,6 @@
   - The marriage register
   - Annual reports
   - Old photos\\
-  \\  
 NOTE: don't give up too easily if at first you can't find
 what you are looking for. More often than not
 these old records can be found. Keep asking and
@@ -26,12 +25,11 @@ keep looking!
 
 2. People   \\
 Contact and talk to people who have knowledge about the church, includlng names that appear in the minute books. 
-
-- Pastors whohave served in the church (also, if possible talk to children and wives of the pastors, they will often have seen things from a different angle.)
-- Members of the community who may have never come to the church, but maybe they 1ived next door for years, and know a good deal about it!
-- Members and pastors of nearby churches may know something of your church.
-- Baptist—Union personnel who may have had some form of contact»with the church.
-- Residents of Baptist aged homes. They may not have been members of your church, but many of them have moved in Baptist circles all their lives and they may have helpful information to share.
+  - Pastors whohave served in the church (also, if possible talk to children and wives of the pastors, they will often have seen things from a different angle.)
+  - Members of the community who may have never come to the church, but maybe they 1ived next door for years, and know a good deal about it!
+  - Members and pastors of nearby churches may know something of your church.
+  - Baptist—Union personnel who may have had some form of contact»with the church.
+  - Residents of Baptist aged homes. They may not have been members of your church, but many of them have moved in Baptist circles all their lives and they may have helpful information to share.
 
 ### Some Notes About Conducting Interviews
 
