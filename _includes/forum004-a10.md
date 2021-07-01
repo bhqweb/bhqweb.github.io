@@ -49,7 +49,7 @@ Sandgate (1932,1972), South Brisbane (1997,1972), Taringa\\
 (1985}, Wynnun (1964)
 
 A number of theological college students have prepared church
-histories for their graduation theses
+histories for their graduation theses.
 
-City Tabernacle, Gernan Baptist Churches, Lanefield-Rosewood,
-Naryborough, Rosalie, South Brisbane, Taringa, 7ent Hill.
+*City Tabernacle, Gernam Baptist Churches, Lanefield-Rosewood,
+Maryborough, Rosalie, South Brisbane, Taringa, Tent Hill.*
