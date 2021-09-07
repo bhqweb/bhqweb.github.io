@@ -4,7 +4,7 @@ title: Heritage Plaque Project
 menu: bhq
 ---
 
-## {{ page:title }}
+## {{ page.title }}
 
 The Heritage Plaque Project is an activity of Baptist Heritage Qld designed to highlight the historical significance of locations and buildings which have played a key role in the development of Baptist witness in Queensland, focusing at first on the Brisbane CBD. It involves placing bronze plaques on buildings and sites, with the support of the current owners, giving brief details of the role played by the location in Baptist life. It is funded by either the Society or the church or a combination. Enquiries are welcome.
 
