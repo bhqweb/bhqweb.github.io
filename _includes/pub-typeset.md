@@ -1,4 +1,5 @@
 {%- assign ttitle = item.Title | normalize_whitespace | strip_newlines -%}
+{%- assign ttitleid = item.Title | normalize_whitespace | strip_newlines| replace: ' ', '_' -%}
 {%- assign tsubtitle = item.Subtitle | strip_newlines -%}
 {%- assign tauthor = item.Author | strip_newlines | replace: ' ', '&nbsp;' -%}
 {%- assign tyear = item.Author | strip_newlines -%}
@@ -18,8 +19,8 @@
 {%- assign timage = item.Image | strip_newlines -%}
 
 {%- if timage != "" -%}<div class="bk-thumb"><img src="/images/thumbs/{{- timage -}}" alt="{{- ttitle -}}"/></div>{%- endif -%}
-<span class="title">{{ item.Title | normalize_whitespace | strip_newlines }}</span>
-{%- if tsubtitle != "" -%}<span class="subtitle"> &mdash; {{- item.Subtitle | strip_newlines | normalize_whitespace -}}</span> {%- endif -%}
+<span class="title" id="{{- ttitleid -}}">{{- ttitle -}}</span>
+{%- if tsubtitle != "" -%}<span class="subtitle"> &mdash; {{- tsubtitle -}}</span> {%- endif -%}
 {%- if tauthor != "" -%}<span class="author">&ensp;&#x25CF;&ensp;{{- tauthor  -}} </span>{%- endif -%}
 {%- if tyear != "" -%}<span class="year">&ensp;{{- item.Year -}} </span>{%- endif -%}
 {%- if textent != "" -%}<span class="extent">&ensp;{{ item.Extent }}{{- item.Ext-type -}} </span>{%- endif -%}

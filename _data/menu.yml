@@ -26,6 +26,16 @@
 #      href: /bhq/forum/forumAuthor.html
     - title: Forum Articles and Extracts
       href: /bhq/forum/extracts/index.html
+- title: "Heritage Plaque Project"
+  sub:
+    - title: Heritage Plaque Project Background
+      href: /bhq/plaques/index.html
+    - title: Plaque 1 1999
+      href: /bhq/plaques/plaque01.html
+#    - title: Plaque 2 
+#      href: /bhq/plaques/plaque02.html
+#    - title: Plaque 1 
+#      href: /bhq/plaques/plaque03.html
 - title: Archiving Guide Sheets
   href: /bhq/guides.html
 - title: "Qld Baptist Archives"
