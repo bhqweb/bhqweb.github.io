@@ -4,7 +4,7 @@ title: Plaque No 5
 menu: bhq
 ---
 
-## No 5 2017 Winsor Road Baptist Church
+## No 5 2017 Windsor Road Baptist Church
 
 The third plaque in the BHQ Heritage Plaques Project was dedicated on Sunday 13 August 2017 at Windsor Road Baptist Church. It commemorates the current church building which was erected in 1888 and the Memorial Hall opened in 1931 in honour of the long pastorate of Rev Thomas Leitch from 1878-1929 (a record for Queensland!). 
 
@@ -14,5 +14,5 @@ The unveiling and dedication of the plaque was performed after the church servic
 
 ![Plaque 5](/images/plaque05.jpg)
 
-![Plaque 5 unveiling](/images/plaque05-unveil.jpg)\\ 
+![Plaque 5 unveiling](/images/plaque05-unveil.jpg) \\ 
 L to R - Pastor Mark Ng, Eric Kopittke (President BHSQ)
