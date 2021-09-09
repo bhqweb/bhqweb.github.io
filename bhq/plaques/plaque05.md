@@ -14,5 +14,5 @@ The unveiling and dedication of the plaque was performed after the church servic
 
 ![Plaque 5](/images/plaque05.jpg)
 
-![Plaque 5 unveiling](/images/plaque05-unveil.jpg) \\ 
+![Plaque 5 unveiling](/images/plaque05-unveil.jpg) <br/> 
 L to R - Pastor Mark Ng, Eric Kopittke (President BHSQ)
