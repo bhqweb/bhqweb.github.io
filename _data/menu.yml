@@ -32,17 +32,17 @@
       href: /bhq/plaques/index.html
     - title: Plaque 1 1999
       href: /bhq/plaques/plaque01.html
-    - title: Plaque 2 
+    - title: Plaque 2 2004
       href: /bhq/plaques/plaque02.html
-    - title: Plaque 3 
+    - title: Plaque 3 2016
       href: /bhq/plaques/plaque03.html
-    - title: Plaque 4 
+    - title: Plaque 4 2017
       href: /bhq/plaques/plaque04.html
-    - title: Plaque 5 
+    - title: Plaque 5 2017
       href: /bhq/plaques/plaque05.html
-    - title: Plaque 6 
+    - title: Plaque 6 2020
       href: /bhq/plaques/plaque06.html
-    - title: Plaque 7 
+    - title: Plaque 7 2021
       href: /bhq/plaques/plaque07.html
 #    - title: Plaque 8 
 #      href: /bhq/plaques/plaque08.html
@@ -50,6 +50,12 @@
 #      href: /bhq/plaques/plaque09.html
 #    - title: Plaque 10 
 #      href: /bhq/plaques/plaque10.html
+- title: Historical Tour Guides
+  sub: 
+    - title: Brisbane Baptist Historical Guide
+      href: /bhq/guide/index.html
+    - title: Rockhampton Baptist Historical Guide
+      href: /bhq/guide/rockhampton.html
 - title: Archiving Guide Sheets
   href: /bhq/guides.html
 - title: "Qld Baptist Archives"
