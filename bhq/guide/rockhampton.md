@@ -15,8 +15,11 @@ also includes references to several locations in the nearby areas.
 
 _Use your GPS and a local map to visit them._
 
-More detail sin _Something more than Gold,_ published by Baptist Heritage Queensland (2012).
-1. **650 NormanRoad, North Rockhampton:** site of Rockhampton Tabernacle since 2001. Previously Peace International Christian Church; originally opened 1994
+More detail sin _[Something more than Gold](/bhq/pubs/index.html#Something_more_than_Gold),_ published by Baptist Heritage Queensland (2012).
+
+[Download  or view printable PDF version](/pdf/Rockhampton_Heritage_tour.pdf)
+
+1. **650 Norman Road, North Rockhampton:** site of Rockhampton Tabernacle since 2001. Previously Peace International Christian Church; originally opened 1994
 2. **Quay Street**, near Fitzroy Bridge: Rev BG Wilson preached first sermons from deck of boat here in Feb 1862; nearby, original location of Buzacott’s newspaper business
 3. **Victoria Park**, up stream of Alexandra Rail Bridge: site of first baptism 29 June 1862 (probably near “the palm tree”)
 4. **Denison Street, between Denham & William Streets**: site of original church building 1864-1906, and of Tabernacle, 1906-1917 (probably near the palm tree at Capricorn Screens)
