@@ -8,7 +8,7 @@ menu: bhq
 
 #### A tour of important sites in Baptist witness around Brisbane 
 
-**by David Parker **
+**by David Parker** 
 
 © 2016, 2021
 
@@ -118,7 +118,7 @@ manse.
 Proceed
 along Upper Edward Street and Leichhardt Street into Fortescue Street. On the
 right, near the corner stood the **Fortescue
-Street **church (a continuation of the Edward Street church) from 1876
+Street** church (a continuation of the Edward Street church) from 1876
 (another Richard Gailey building). The fellowship disbanded in 1889 and the
 building was moved to Chapel Street, Nundah where it was used by the Baptist
 Church there; it has been used in by various groups, including a church for
@@ -161,7 +161,7 @@ giving time to the establishment of the school. He is buried in the Chapel Hill
 Uniting cemetery on Moggill Road. (The district of Moore Park – and the Baptist
 church adjacent of the same name – was probably named after his son.) Drive out
 through Kenmore to Gold Creek Road and see **Brookfield Baptist aged care centre**, opened 1972, and beyond that the Queensland Camps
-and Convention Centre’s latest site, the former **Queensland Baptist College of Ministries **(the college was relocated
+and Convention Centre’s latest site, the former **Queensland Baptist College of Ministries** (the college was relocated
 from Gray Road, West End and opened in 1974; it moved to Prospect Road Gaythorne
 in 2005 and renamed Malyon Theological College). These facilities are on land originally selected by Dr J.L. Dart
 in recognition of the contribution made by the **Dart family** to the Brookfield area and Baptist witness in
@@ -190,7 +190,7 @@ Return
 along Montague Road to Vulture Street, and travel through West End to the
 junction with Stephens Road, noticing **Sommerville
 House** ahead on the right. The boarding section of this school was the
-family home of** T.B. Stephens**,
+family home of **T.B. Stephens**,
 benefactor of the Wharf Street church. The school had its origins at the City
 Tabernacle Baptist Church, Upper Edward Street. Stephens was also active in local
 government representing South Brisbane and was mayor of Brisbane. Continue
@@ -199,8 +199,8 @@ along Vulture Street and at city side of Christie Lane, note the former site of
 was founded in 1872 on land bought by T.B. Stephens, and became an influential
 force on the south side of the city. It was not one of the original members of
 the Baptist Union formed in 1877, but joined very soon after. Two of its
-pastors, **Rev. William Bell **(1921-40)
-and** Rev. Thos. C. Warriner **(1941-66),
+pastors, **Rev. William Bell** (1921-40)
+and **Rev. Thos. C. Warriner **(1941-66),
 served as principals of the College. In 2013 it 
 relocated to 859 Stanley Street as Church@TheGabba. 
 
@@ -230,11 +230,11 @@ in that position for 37 years. 
 **However, for an interesting extension to
 this tour**, proceed to Boundary Street and turn right along Gregory Terrace.
 Looking down to the left overlooking the Inner City Bypass, notice that it was
-along this hollow that****the first of** Lang's immigrants** were forced to set
+along this hollow that the first of **Lang's immigrants** were forced to set
 up their camp in 1849 when the government refused to provide them with the
 anticipated assistance. Continue on Gregory Terrace and find your way to Sandgate
 Road and Toombul Shopping Town. Go through to the back and drive along Walker's
-Way to Hedley Avenue. This is the ‘Zion's Hill’ area where the** Gossner Missionaries** from Germany
+Way to Hedley Avenue. This is the ‘Zion's Hill’ area where the **Gossner Missionaries** from Germany
 settled in 1838. Even before the colony was opened to free settlement, they
 were beginning their work among the local aborigines. Their Christian
 connections are reflected in names like Zion's Hill and near-by Kedron Brook
@@ -251,7 +251,7 @@ Baptist Church, opened in 2003 to replace the Nundah War Memorial Church
 (erected 1923). Follow around the front of the church into Bage Street and then
 turn right down Boyd Street to turn left back into Sandgate Road. Turn left at
 the roundabout at the end of the shops into a parking area and observe in the
-park a dignified granite** memorial to the
+park a dignified granite **memorial to the
 first free settlers** from Zion’s Hill area, listing their names, some of
 which are commemorated in local street names like Rode Road, Gerler Road and
 Franz Road. 
