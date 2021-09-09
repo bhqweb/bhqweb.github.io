@@ -39,8 +39,8 @@ This is the location of the **United
 Evangelical Church**, which was erected in April 1851 (the plaque was
 unveiled exactly 150 years later!) as the place of worship for Baptist,
 Presbyterian and Congregational migrants who settled in Moreton Bay colony
-under a scheme organised by** Rev. Dr John
-Dunmore Lang, **with Charles Stewart as minister. They arrived in 1849 on the
+under a scheme organised by **Rev. Dr John
+Dunmore Lang,** with Charles Stewart as minister. They arrived in 1849 on the
 ships _Fortitude_, _Chaseley_ and _Lima_ and
 formed the church immediately under the leadership of the pastor, Rev. Charles
 Stewart; he served until the end of 1854. The building was sold in 1857 and
@@ -53,7 +53,7 @@ you drive along beyond George Street (if you want to park, walk over to the Quee
 Street Mall) note that one block over to the left in Queen St., on the far side
 of the present mall stood the old **Prisoners'
 Barracks**, which later were used for the Court House. Here the united
-services and also the** first Baptist
+services and also the **first Baptist
 services** were held. The first Baptist fellowship commenced in early 1855,
 led by Rev. Charles Smith, formerly of Parramatta, NSW. 
 
@@ -84,7 +84,7 @@ the building itself remained there much longer).
 Continue
 to George Street, and then turn right and then right again into Turbot Street.
 As you cross the overpass past the court building, look down to the left on
-Roma Street where the** first baptisms**
+Roma Street where the **first baptisms**
 took place on 31 May 1857 in the stream running from town reservoir. They were
 conducted by **Rev. James Voller**, then
 of Bathurst Street church in Sydney, who was visiting Brisbane to assist the
@@ -128,11 +128,11 @@ right of the junction.
 
 Follow
 Gregory Terrace to the left right through to College Road, go through the
-Five-Ways and turn left into Hale Street, observing the old** Petrie Terrace Church** on the left, opposite Lang Park, now in
+Five-Ways and turn left into Hale Street, observing the old **Petrie Terrace Church** on the left, opposite Lang Park, now in
 private hands and converted into an attractive residential building. The
 fellowship was established in 1870 as an outreach from the Edward Street
 church, consolidating Sunday School and Band of Hope work commenced earlier.
-The ground was given by pioneer Baptist and first pastor, **Rev. W. Moore.  **The first building
+The ground was given by pioneer Baptist and first pastor, **Rev. W. Moore.**  The first building
 was erected in 1869 and this one in 1895. Lang Park (named after the famous
 Presbyterian minister whose work assisted Baptists in Queensland as well as
 many other groups, Rev Dr John Dunmore Lang, for many years now the site of a
@@ -180,16 +180,16 @@ a valuable preaching ministry.
 Turn
 right into Peel Street and right again into Merivale St, and taking a left
 turn, enter Montague Road, following it to Gray Road, Hill End. Observing at
-Number 55 the first residential home of the**
-Baptist Theological College** in a building given by Mr and Mrs E. Humphrey
+Number 55 the first residential home of the
+**Baptist Theological College** in a building given by Mr and Mrs E. Humphrey
 in 1939. Additional buildings were erected and the site used until 1973 when
 the move was made to the Brookfield site. The Yumba Hostel now occupies the Gray
 Road site. 
 
 Return
 along Montague Road to Vulture Street, and travel through West End to the
-junction with Stephens Road, noticing **Sommerville
-House** ahead on the right. The boarding section of this school was the
+junction with Stephens Road, noticing **Sommerville House** 
+ahead on the right. The boarding section of this school was the
 family home of **T.B. Stephens**,
 benefactor of the Wharf Street church. The school had its origins at the City
 Tabernacle Baptist Church, Upper Edward Street. Stephens was also active in local
@@ -200,7 +200,7 @@ was founded in 1872 on land bought by T.B. Stephens, and became an influential
 force on the south side of the city. It was not one of the original members of
 the Baptist Union formed in 1877, but joined very soon after. Two of its
 pastors, **Rev. William Bell** (1921-40)
-and **Rev. Thos. C. Warriner **(1941-66),
+and **Rev. Thos. C. Warriner** (1941-66),
 served as principals of the College. In 2013 it 
 relocated to 859 Stanley Street as Church@TheGabba. 
 
@@ -221,7 +221,7 @@ Unless
 you decide to take the supplement mentioned next, this brief tour can end by
 travelling back to the Queen Street mall, near where United Evangelical and
 then Baptist services were first held; as you sip your coffee, remember also
-that the** Kingsford Drapery** stood
+that the **Kingsford Drapery** stood
 near the site of Queens Plaza. R.A. Kingsford was a foundation member of Wharf
 Street, and an interim lay pastor. He was also later a mayor of Brisbane and a
 member of Parliament. His brother John was the first pastor of Jireh and served
@@ -267,16 +267,16 @@ existence.
 
 Return
 to Sandgate Road, and on the return journey, detour to the left from Sandgate
-Road at Railway Parade to Alexandra Road and the **Clayfield Baptist Church, **originally known as Hendra Baptist
+Road at Railway Parade to Alexandra Road and the **Clayfield Baptist Church,** originally known as Hendra Baptist
 Church. The chapel which had been used at Zion's Hill since 1855 was re-erected
 at the back of this property in about 1874 and remained in use until 1966, when
 the present church was erected as a Christian Education block. Another
 attractive church building had been used as the church from 1890 to 1986.  The site itself had been donated by one of
 the Gossner missionaries, F.T. Franz, for this purpose. Further along at 61-63
-Alexandra Road used to stand **Clifford
-House**, the Baptist Aged Persons' Home, now sold and refurbished. This work
-commenced at the stately **Farrington
-House** in David Street, Alderley in 1949 which was used until its sale in
+Alexandra Road used to stand **Clifford House**, 
+the Baptist Aged Persons' Home, now sold and refurbished. This work
+commenced at the stately **Farrington House** 
+in David Street, Alderley in 1949 which was used until its sale in
 1956 and the move to more suitable premises at Ascot. New premises in Jimbour
 St, Wooloowin were opened in 1991.
 
