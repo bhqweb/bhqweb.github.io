@@ -38,4 +38,4 @@ a Lutheran fellowship.  
 The full story of the church is in the book,
 [Tarampa Baptist Church](https://www.bhsq.org/bhq/pubs/index.html#tarampa) by Richard Scanlan and David Parker
 
-![Plaque 2](/images/plawue02.jpg)
+![Plaque 2](/images/plaque02.jpg)

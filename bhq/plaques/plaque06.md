@@ -12,8 +12,8 @@ The plaque commemorates three Baptist buildings on the site, unique for this pro
 
 Then in 1923, a new wooden church was built next door as the Nundah Memorial Baptist Church, honouring Baptist church people who fell during World War I, with special features recognizing local men consisting of windows and plaques. It also honoured the work of Baptist military chaplains. The minister Rev A G Weller, OBE was Senior Chaplain and had a long and meritorious period of service in that role. The 80’ x 36’ building, seating 500 and costing £3000, was opened with great fanfare on 4 August 1923.
 
-
 The old church was soon sold and became a Masonic Lodge, then an Anglican church and eventually business premises. The shingle roof was replaced in 1935 and in 1958 the exterior was rendered with stucco and the front porch added. 
+
 The Memorial church was used (being added to, renovated and modified over the years), until 1999 when it was demolished as part of the Nundah road tunnel project. The Nundah Baptist Church met with the Wavell Heights Baptist Church for a period. Then they merged to form North-East Baptist Church, meeting elsewhere until they could return to original site and use the new current building which was opened in 2003. 
 
 The plaque was unveiled by President of BHSQ, Eric Kopittke, and Rev Peter Cossgrove, minister of North-East Baptist (pictured). 

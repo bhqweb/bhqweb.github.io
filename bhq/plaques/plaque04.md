@@ -15,8 +15,6 @@ church and also designed several other Baptist churches. The plaque was
 unveiled after the morning service by the President of Baptist Heritage
 Queensland, Mr Eric Kopittke and the pastor of the church, Rev Richard Kingham.
 
- 
-
 This was the second building (and site) to be occupied by
 this church, the previous building being located at the corner of Wharf and
 Adelaide Streets in the city but it had become too
@@ -24,8 +22,6 @@ small for the church’s needs. The new structure was said at the time of openin
 to be a ‘sacred edifice [which] occupies a commanding position and is certainly
 one of the finest buildings of its kind in the colony, both as regards exterior
 appearance and internal arrangements.’ 
-
- 
 
 The opening of the plaque took place exactly 160 years to
 the day since Rev James Voller came from Sydney to assist the young ‘Brisbane
@@ -37,6 +33,5 @@ development in Baptist work.
 
 ![Plaque 4](/images/plaque04.jpg)
 
-![Plaque 4 unveiling](/images/plaque04-unveil.jpg) 
-
+![Plaque 4 unveiling](/images/plaque04-unveil.jpg) \\
 L to R – Hope Colegrove, Eric Kopittke (President BHSQ), Dr David Parker, Rev Richard Kingham (Minister, City Tabernacle Baptist Church)
