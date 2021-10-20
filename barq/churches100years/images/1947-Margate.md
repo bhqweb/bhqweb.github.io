@@ -3,7 +3,7 @@ title: 1947 Margate
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1947-Margate.jpg
 prev: 1945-Pie-Creek-Gympie.html
 next: 1947-Roadvale-Kalbar.html

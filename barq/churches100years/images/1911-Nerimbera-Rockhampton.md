@@ -3,7 +3,7 @@ title: 1911 Nerimbera Rockhampton
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1911-Nerimbera-Rockhampton.jpg
 prev: 1910-Coorparoo.html
 next: 1912-Port-Curtis-Rd-Rockhampton.html

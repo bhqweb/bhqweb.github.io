@@ -23,4 +23,4 @@ Usually plaques are opened as part of a Sunday worship service, but this was not
 
 ![Plaque 6 unveiling](/images/plaque06-unveil.jpg)
 
-![Plaque 6](/images/plaque06.jpg)
+![Plaque 6](/images/plaque06.png)

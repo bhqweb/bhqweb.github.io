@@ -3,7 +3,7 @@ title: 1952 Laidley hall
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1952-Laidley-hall.jpg
 prev: 1952-Kingaroy-MarkwellSt.html
 next: 1952-Nambour.html

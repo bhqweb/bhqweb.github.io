@@ -3,7 +3,7 @@ title: 1924 Cloyna
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1924-Cloyna.jpg
 prev: 1923-Nundah-Memorial.html
 next: 1924-Woodford.html

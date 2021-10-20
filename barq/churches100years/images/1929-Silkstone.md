@@ -3,7 +3,7 @@ title: 1929 Silkstone
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1929-Silkstone.jpg
 prev: 1928-PalmBeach.html
 next: 1930-Banyo.html

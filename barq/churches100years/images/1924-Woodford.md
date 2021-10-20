@@ -3,7 +3,7 @@ title: 1924 Woodford
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1924-Woodford.jpg
 prev: 1924-Cloyna.html
 next: 1925-Geebung.html

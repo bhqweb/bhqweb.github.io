@@ -3,7 +3,7 @@ title: 1888 Windsor Rd
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1888-Windsor-Rd.jpg
 prev: 1888-Dinmore52.html
 next: 1889-Charters-Towers.html

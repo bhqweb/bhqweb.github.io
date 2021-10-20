@@ -3,7 +3,7 @@ title: 1932 Tinana Marybrough
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1932-Tinana-Marybrough.jpg
 prev: 1932-Thangool.html
 next: 1932-Wood-Street-Rockhampton.html

@@ -3,7 +3,7 @@ title: 1954 Manly Lota Wynnum
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1954-Manly-Lota-Wynnum.jpg
 prev: 1954-Laidley.html
 next: 1955-Biloela.html

@@ -1,12 +1,12 @@
 ---
-title: 1937 Gatton
+title: 1921 Yandina
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1955 Album
-image: 1937-Gatton.jpg
-prev: 1936-North-Rockhampton-High-St.html
-next: 1937-Kenilworth.html
+image: 1921-Yandina.jpg
+prev: 1921-Wamuran.html
+next: 1922-Granville-Maryborough.html
 ---
 {% include image-head.md %}
 {% include image.html %}

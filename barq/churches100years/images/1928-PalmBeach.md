@@ -3,7 +3,7 @@ title: 1928 PalmBeach
 layout: default
 display: image
 menu: barq
-album: German Baptist Churches Album
+album: Queensland Baptist Churches 1851-1955 Album
 image: 1928-PalmBeach.jpg
 prev: 1928-Holland-Park.html
 next: 1929-Silkstone.html
