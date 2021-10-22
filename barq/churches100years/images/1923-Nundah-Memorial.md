@@ -3,7 +3,7 @@ title: 1923 Nundah Memorial
 layout: default
 display: image
 menu: barq
-album: Queensland Baptist Churches 1851-1955 Album
+album: Queensland Baptist Churches 1851-1960 Album
 image: 1923-Nundah-Memorial.jpg
 prev: 1922-Townsville-rebuilt-1955YrBk.html
 next: 1924-Cloyna.html
