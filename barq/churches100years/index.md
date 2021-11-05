@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Queensland Baptist churches 1851-1960 by date of commencement
+title: Queensland Baptist churches by date of commencement
 menu: barq
 ---
 ## {{ page.title }}
