@@ -5,7 +5,7 @@ display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1958-Brighton.jpg
-prev: 1957-Toogoolawah.JPG
+prev: 1957-Toogoolawah.html
 next: 1958-Broadbeach.html
 ---
 {% include image-head.md %}
