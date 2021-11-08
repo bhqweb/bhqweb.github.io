@@ -6,7 +6,7 @@ menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1967-Lawnton.jpg
 prev: 1967-Banyo.html
-next: 1967-MagneticIsland.html
+next: 1967-Magnetic-Island.html
 ---
 {% include image-head.md %}
 {% include image.html %}

@@ -1,12 +1,12 @@
 ---
-title: 1936 NormanPark
+title: 1952 Kedron Gordon Park
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1936-NormanPark.jpg
-prev: 1936-Nanango.html
-next: 1936-North-Rockhampton-High-St.html
+image: 1952-Kedron-Gordon-Park.jpg
+prev: 1952-Holland-Park.html
+next: 1952-Kingaroy-Markwell-St.html
 ---
 {% include image-head.md %}
 {% include image.html %}

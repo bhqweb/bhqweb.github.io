@@ -1,8 +1,10 @@
 <div style="width:100%;height:100%;min-height:800px;background-color:black;text-align:center;padding: 50px;">
-{% assign filetext = page.image | replace: "-"," " | replace: "_"," " | replace: page.image.extname,"" %}
+{% assign nameext = page.image | split:"." %}
+{% assign filetext = nameext | first | replace: "-"," " | replace: "_"," "  %}
+{% assign pageid = nameext | first %}
 <a href="{{ page.next }}" style="float:right;color:white;">Next</a>
 <a href="{{ page.prev }}" style="float:left;color:white;">Previous</a> 
-<h4><a href="../index.html" style="color:white;">Back</a></h4>
+<h4><a href="../index.html#{{ pageid }}" style="color:white;">Back</a></h4>
 <h5>{{ page.album }}</h5>
 <img src="{{- page.image -}}" alt="{{ filetext }}" title="{{ filetext }}" style="max-width:100%"/>
 <h3 style="color:white;">{{ imagetext }}</h3>

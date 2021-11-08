@@ -1,12 +1,12 @@
 ---
-title: 1928 PalmBeach
+title: 1970 Holland Park
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1928-PalmBeach.jpg
-prev: 1928-Holland-Park.html
-next: 1929-Silkstone.html
+image: 1970-Holland-Park.jpg
+prev: 1970-Caboolture.html
+next: 
 ---
 {% include image-head.md %}
 {% include image.html %}

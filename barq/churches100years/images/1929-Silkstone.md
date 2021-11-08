@@ -5,7 +5,7 @@ display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1929-Silkstone.jpg
-prev: 1928-PalmBeach.html
+prev: 1928-Palm-Beach.html
 next: 1930-Banyo.html
 ---
 {% include image-head.md %}

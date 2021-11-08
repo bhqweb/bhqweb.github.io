@@ -1,11 +1,11 @@
 ---
-title: 1961 BethesdaBaptistChapel North Rockhampton 1962b
+title: 1961 Bethesda Baptist Chapel North Rockhampton 1962b
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1961-BethesdaBaptistChapel-North-Rockhampton-1962b.jpg
-prev: 1960-RabyBay.html
+image: 1961-Bethesda-Baptist-Chapel-North-Rockhampton-1962b.jpg
+prev: 1960-Raby-Bay.html
 next: 1961-Dinmore.html
 ---
 {% include image-head.md %}

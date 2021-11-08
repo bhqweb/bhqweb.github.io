@@ -5,7 +5,7 @@ display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1964-Clontarf-Beach.jpg
-prev: 1964-ClontarfBeach.html
+prev: 1964-Cannon-Hill.html
 next: 1964-Keperra-Grovely.html
 ---
 {% include image-head.md %}

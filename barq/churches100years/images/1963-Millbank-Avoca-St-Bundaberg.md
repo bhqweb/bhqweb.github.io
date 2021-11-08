@@ -6,7 +6,7 @@ menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1963-Millbank-Avoca-St-Bundaberg.jpg
 prev: 1963-Innisfail.html
-next: 1964-CannonHill.html
+next: 1964-Cannon-Hill.html
 ---
 {% include image-head.md %}
 {% include image.html %}

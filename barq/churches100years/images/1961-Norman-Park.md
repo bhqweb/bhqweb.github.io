@@ -1,12 +1,12 @@
 ---
-title: 1895 PetrieTerrace
+title: 1961 Norman Park
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1895-PetrieTerrace.jpg
-prev: 1893-Townsville-1875.html
-next: 1897-Beaudesert.html
+image: 1961-Norman-Park.JPG
+prev: 1961-Gordon-Park.html
+next: 1961-Roma.html
 ---
 {% include image-head.md %}
 {% include image.html %}

@@ -1,12 +1,12 @@
 ---
-title: 1959 TheGap
+title: 1952 Southport Nerang St
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1959-TheGap.jpg
-prev: 1959-Salisbury.html
-next: 1960-Bulimba.html
+image: 1952-Southport-Nerang-St.jpg
+prev: 1952-Scarborough.html
+next: 1952-Tin-Can-Bay.html
 ---
 {% include image-head.md %}
 {% include image.html %}

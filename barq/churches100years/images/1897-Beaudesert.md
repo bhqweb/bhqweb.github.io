@@ -5,7 +5,7 @@ display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
 image: 1897-Beaudesert.jpg
-prev: 1895-PetrieTerrace.html
+prev: 1895-Petrie-Terrace.html
 next: 1899-Gympie-Apollonian-Vale.html
 ---
 {% include image-head.md %}

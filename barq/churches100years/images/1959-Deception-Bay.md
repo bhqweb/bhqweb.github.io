@@ -1,12 +1,12 @@
 ---
-title: 1851 United Evangelical Church WilliamSt Brisbane
+title: 1959 Deception Bay
 layout: default
 display: image
 menu: barq
 album: Queensland Baptist Churches 1851-1960 Album
-image: 1851-United-Evangelical-Church-WilliamSt-Brisbane.jpg
-prev: 
-next: 1859-Wharf-St.html
+image: 1959-Deception-Bay.jpg
+prev: 1958-Upper-Mt-Gravatt.html
+next: 1959-Enoggera.html
 ---
 {% include image-head.md %}
 {% include image.html %}
