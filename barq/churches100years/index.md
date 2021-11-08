@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Queensland Baptist churches by date of commencement
+title: Queensland Baptist churches by date of erection/opening
 menu: barq
 ---
 ## {{ page.title }}
