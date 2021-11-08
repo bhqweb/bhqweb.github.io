@@ -12,7 +12,7 @@ The original building, known as Wharf Street Baptist Church, was opened on 6 Feb
 
 The site was used for various purposes over the years, including some small church congregations and commercial enterprises. The site is now home to a multi-million dollar student accommodation complex.
 
-![Plaque 7 unveiling](/images/plaque07.jpeg)
+<img src="/images/plaque07.jpg" alt="Plaque 7 " style="width:800px;"/>
 
 ![Plaque 7 unveiling](/images/plaque07-unveil.jpg)\\
 Left to right \\
