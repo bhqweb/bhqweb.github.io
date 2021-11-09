@@ -15,7 +15,8 @@ menu: bhq
 {% assign type = group.items[0].Author | normalize_whitespace %}
 <h3>{{ type }}</h3> 
 <ul class="pubs">
-{%- for item in group.items -%}
+{% assign curgrp = group.items  | sort: 'TitleSort' -%} 
+{%- for item in curgrp -%}
 <li>
 {% include pub-typeset.md %} 
 </li>
