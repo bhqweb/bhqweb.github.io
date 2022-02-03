@@ -32,5 +32,8 @@
 {%- if tfeatures != "" -%}<span class="pubfeatures">&ensp; {{ item.Features }} </span>{%- endif -%}
 {%- if turl != ""  -%}<span class="url"><a href="{{- turl -}}" alt="Lulu" style="display:inline">{{- surl[2] -}}</a> </span>{%- endif -%}
 {%- if tcost != "" -%}<span class="price">&ensp; {{ tcost }} </span>{%- endif -%}
+{% comment %}
 {%- if tship != "" -%}<span class="shipping"> plus {{ tship  }} postage</span>{%- endif -%}
+{% endcomment %}
+{%- if tship!= "" -%}<span class="shipping"> plus postage</span>{%- endif -%}
 {%- if toop != "" -%}<span class="out-print">&ensp; Out&nbsp;of&nbsp;print!</span>{%- endif -%}
