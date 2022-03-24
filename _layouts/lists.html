@@ -1,0 +1,115 @@
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<script src="/assets/js/list.js"></script>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+				<!-- Main -->
+					<div id="main">
+					{% include head-image.html %}
+						<div class="inner">
+							<!-- Header -->
+								<header id="header">
+
+									<a href="/index.html" class="logo"><strong>
+									{% include title.html %}
+									</strong> </a>
+									<ul class="icons">{% include breadcrumbs.html %}
+										<!-- <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li> -->
+
+									</ul>
+								</header>
+
+							<!-- Content -->
+								<section class="main">
+									{{ content }}
+								</section>
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+                <!-- <script async src="https://cse.google.com/cse.js?cx=2f00a76ecb4c33266"></script>
+<div class="gcse-searchbox-only"></div>
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form> -->
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+									 {% include menu2level.html %} 
+									</ul>
+								</nav>
+
+							<!-- Section -->
+
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									{% if page.menu == 'bhq' %}
+										{% include bhq-member.html %}
+									{% endif %}
+									{% include address.html %} 
+								</section>
+
+							<!-- Footer -->
+                            
+								<footer id="footer">
+									{% include copyright.html %}
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+            <script type="text/javascript">
+
+var options = {
+  valueNames: ['name', 'church', 'year', 'position']
+};
+
+var entryList = new List('entry-list', options);
+
+</script>
+
+	</body>
+</html>
