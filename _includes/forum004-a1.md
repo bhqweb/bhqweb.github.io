@@ -1,9 +1,6 @@
 ## News and Notes
 
-Thanks to all those who have responded to our recent circular
-which gave an up-date on developments in the work of the Baptist
-Historical Society of Queensland during the latter part of last yeam
-Us have received some subscriptions, which means we can still continue
+Thanks to all those who have responded to our recent circular which gave an up-date on developments in the work of the Baptist Historical Society of Queensland during the latter part of last yeam Us have received some subscriptions, which means we can still continue
 to function, but more are needed. lf you intend to send yours in, may
 a we invite you to do so right away?
 
