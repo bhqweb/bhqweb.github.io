@@ -101,10 +101,11 @@
 			<script src="/assets/js/breakpoints.min.js"></script>
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
-            <script type="text/javascript">
+
+<script type="text/javascript">
 
 var options = {
-  valueNames: ['name', 'church', 'year', 'position']
+  valueNames: [{{ page.sortfields }}]
 };
 
 var entryList = new List('entry-list', options);
