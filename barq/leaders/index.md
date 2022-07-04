@@ -2,6 +2,7 @@
 layout: lists
 title: Baptist Church Organisation Leaders in Queensland, Australia 1907-1969
 menu: barq
+sortfields: "'name', 'church', 'year', 'position'"
 ---
 
 ## {{ page.title }}
