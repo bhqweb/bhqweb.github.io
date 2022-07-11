@@ -13,7 +13,7 @@
   - title: Baptist Churches Organisation Leaders 1907-1969
     href: /barq/leaders/index.html
   - title: Thom Blake Baptist Church Information
-    href: /barq/BlakeThomChurchData
+    href: /barq/thirdParty/BlakeThomChurchData
   - title: Baptists Periodicals
     href: /barq/lists/bap-periodicals.html
   - title: Digital Resources
@@ -43,6 +43,12 @@
     href: /bhq/forum/index.html
 - title: "National Guide"
   href: "/natguide/index.html"
+- title: "Third Party Resources"
+  sub: 
+  - title: Thom Blake Baptist Church Information
+    href: /barq/thirdParty/BlakeThomChurchData
+  - title: Thom Blake Interactive Map
+    href: /barq/thirdParty/BlakeThomChurchData/qldbapmap.html
 - title: "Links"
   sub:
     - title: Queensland Baptists
