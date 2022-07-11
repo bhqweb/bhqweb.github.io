@@ -18,11 +18,8 @@
     href: /barq/lists/bap-periodicals.html
   - title: Digital Resources
     href: /barq/lists/digital-res.html
-
 - title: Archiving Guides
   href: /barq/guides.html
-  
-  
 - title: Photo Albums
   sub: 
   - title: Baptist Churches in Queensland Album from 1851
@@ -51,8 +48,8 @@
     href: /barq/thirdParty/BlakeThomChurchData/qldbapmap.html
 - title: "Links"
   sub:
-    - title: Queensland Baptists
-      href: https://www.qb.org.au/
-    - title: Baptist World Alliance Heritage and Identity Commission
-      href: http://www.bwa-baptist-heritage.org/
+  - title: Queensland Baptists
+    href: https://www.qb.org.au/
+  - title: Baptist World Alliance Heritage and Identity Commission
+    href: http://www.bwa-baptist-heritage.org/
   
