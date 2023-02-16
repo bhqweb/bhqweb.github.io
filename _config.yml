@@ -69,3 +69,10 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+google_analytics:
+  id:                 # fill in your Google Analytics ID
+  # Google Analytics pageviews report settings
+  pv:
+    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+
