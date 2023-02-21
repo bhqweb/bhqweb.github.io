@@ -3,7 +3,7 @@ title: 1961 Rosewood
 layout: default
 display: image
 menu: barq
-album: Queensland Baptist Churches 1851-1960 Album
+album: Queensland Baptist Churches from 1851 Album
 image: 1961-Rosewood.JPG
 prev: 1961-Roma.html
 next: 1962-Carina.html

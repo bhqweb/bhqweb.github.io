@@ -5,8 +5,8 @@ display: image
 menu: barq
 album: Queensland Baptist Churches from 1851 Album
 image: 1969-Brassall.jpg
-prev: 1966-Mt-Isa.html
-next: 
+prev: 1969-Ayr.html
+next: 1969-Coorparoo.html
 ---
 {% include image-head.md %}
 {% include image.html %}
