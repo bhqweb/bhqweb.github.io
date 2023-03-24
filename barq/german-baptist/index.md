@@ -1,6 +1,6 @@
 ---
 layout: default
-title: German Baptist Churces
+title: German Baptist Churches
 menu: barq
 ---
 ## {{ page.title }}
