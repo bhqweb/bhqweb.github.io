@@ -5,4 +5,4 @@ menu: bhq
 ---
 ## {{ page.title }}
 
-{% include image-gallery.html folder="/bhq/forum/buildings/sbbc/thumbs" %}
+{% include image-gallery.html folder="/bhq/forum/f115/sdbc/thumbs" %}
