@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Forum 1984 - 2022
+title: Forum 1984&#x2013;
 menu: bhq
+dlpath: /dl/
 ---
 
 ## {{ page.title }}
@@ -21,8 +22,12 @@ To search press Ctrl and F, then type your search word, then press enter.
 
 
 <ul>
-
-{% if ext == "pdf" %}<li><a href="/pdf/{{- file -}}">view PDF</a></li>{% endif %}
+<!-- The following line was changed 2024-03-08 so the download goes via a redirect html page to record downloads. -->
+{% if ext == "pdf" %}
+<li>
+<a href="{{ page.dlpath }}{{- file | replace: ".pdf",".html" -}}">view PDF</a>
+</li>
+{% endif %}
 {% if ext == ".md" %}<li><a href="/bhq/forum/volumes/{{- file | replace: ".md",".html" -}}">view file</a></li>{% endif %}
 
 {%- for item in group.items -%}
