@@ -2068,7 +2068,8 @@ button,
         position: absolute;
         top: 1em;
         width: 5em; } }
-
+.photos .col10 {max-width:200px;}
+.photos .col14 {max-width:150px;}
 /* Header */
 #header {
   display: -moz-flex;

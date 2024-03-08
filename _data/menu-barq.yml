@@ -1,5 +1,18 @@
 - title: Archives Home
   href: /barq/
+- title: Archive Resources
+  sub:
+  - title: Archive Bookcase inventory
+    href: /barq/archive/bookcase_inventory.html
+  - title: Photos
+    href: /barq/archive/photos_list.html
+  - title: Queensland Baptist Newspaper Photos
+    href: /barq/archive/qb-mag-photos.html
+  - title: Baptists Periodicals
+    href: /barq/lists/bap-periodicals.html
+  - title: Digital Resources
+    href: /barq/lists/digital-res.html
+
 - title: Historical Lists
   sub:
   - title: Church Starts
@@ -14,12 +27,7 @@
     href: /barq/leaders/index.html
   - title: Thom Blake Baptist Church Information
     href: /barq/thirdParty/BlakeThomChurchData
-  - title: Baptists Periodicals
-    href: /barq/lists/bap-periodicals.html
-  - title: Digital Resources
-    href: /barq/lists/digital-res.html
-  - title: Archive Bookcase inventory
-    href: /barq/lists/bookcase_inventory.html
+
 
 - title: Archiving Guides
   href: /barq/guides.html
