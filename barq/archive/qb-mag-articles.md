@@ -7,7 +7,7 @@ sortfields: "'col1','col2','col3','col4','col5','col6','col7'"
 
 ## {{ page.title }}
 
-Only the first 200 of the 7890+ are shown. Use Search to limit the records. Or click on a column to sort by that column.
+Only the first 500 of the 7890+ are shown. Use Search to limit the records. Or click on a column to sort by that column.
 
 <div id="entry-list">
 <div class="row" style="margin-bottom:10px;">
