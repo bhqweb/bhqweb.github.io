@@ -9,6 +9,7 @@ sortfields: "'col1','col2','col3','col4','col5'"
 
 This is a listing of the Books held in the Archive book case, located in the archive.
 
+You can Search to filter records and or sort by column. Refresh to start over.
 
 <div id="entry-list">
    <div class="row" style="margin-bottom:10px;">
