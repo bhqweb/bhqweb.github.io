@@ -13,7 +13,7 @@ Only the first 200 of the 340+ are shown. Use Search to limit the records. Or cl
 <div class="row" style="margin-bottom:10px;">
 		<input type="search" class="search form-control" placeholder="Search" />
 </div>
-<table class="churches">
+<table class="qbphotos">
 <thead>
   <tr>
     <th><span class="sort" data-sort="col1">Reference</span></th>
@@ -22,7 +22,7 @@ Only the first 200 of the 340+ are shown. Use Search to limit the records. Or cl
 
   </tr>
 </thead>
-<tbody class="list qbphotos">
+<tbody class="list">
 {% assign data = site.data.QB-Mag-photos %}
 {% for row in data %}
   <tr>

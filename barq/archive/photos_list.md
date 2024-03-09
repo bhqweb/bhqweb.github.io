@@ -7,13 +7,13 @@ sortfields: "'col1','col2','col3','col4','col5','col6','col7','col8','col9','col
 
 ## {{ page.title }}
 
-### Only the first 200 of the 1700+ are shown. Use Search to limit the records. Or click on a column to sort by that column.
+Only the first 200 of the 1700+ are shown. Use Search to limit the records. Or click on a column to sort by that column.
 
 <div id="entry-list">
 <div class="row" style="margin-bottom:10px;">
 		<input type="search" class="search form-control" placeholder="Search" />
 </div>
-<table class="churches">
+<table class="photos">
 <thead>
   <tr>
     <th><span class="sort" data-sort="col1">Reference</span></th>
@@ -34,7 +34,7 @@ sortfields: "'col1','col2','col3','col4','col5','col6','col7','col8','col9','col
     <th><span class="sort" data-sort="col16">Copyright</span></th>
   </tr>
 </thead>
-<tbody class="list photos">
+<tbody class="list">
 {% assign data = site.data.photos %}
 {% for row in data %}
   <tr>

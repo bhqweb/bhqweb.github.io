@@ -9,10 +9,12 @@
   - title: Queensland Baptist Newspaper Photos
     href: /barq/archive/qb-mag-photos.html
   - title: Baptists Periodicals
-    href: /barq/lists/bap-periodicals.html
+    href: /barq/archive/bap-periodicals.html
   - title: Digital Resources
-    href: /barq/lists/digital-res.html
-
+    href: /barq/archive/digital-res.html
+  - title: QB Magazine articles index 1881-1998
+    href: /barq/archive/qb-mag-articles.html
+    
 - title: Historical Lists
   sub:
   - title: Church Starts
@@ -41,8 +43,6 @@
     href: /barq/churches100years/churchBuildingIntro.html
   - title: German Baptist Churches Album
     href: /barq/german-baptist/index.html
-- title: Archiving Guide Sheets
-  href: /barq/guides.html
 - title: Baptist Heritage Queensland
   sub: 
   - title: BHQ Home
