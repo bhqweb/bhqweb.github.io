@@ -20,7 +20,7 @@ Only the first 500 of the 3600+ are shown. Use Search to limit the records. Or c
     <th><span class="sort" data-sort="col2">Indexed</span></th>
     <th><span class="sort" data-sort="col3">Name</span></th>
     <th><span class="sort" data-sort="col4">Notes</span></th>
-    <th><span class="sort" data-sort="col5">Box</span></th>
+    <th><span class="sort" data-sort="col5">Locn/Box</span></th>
     <th><span class="sort" data-sort="col6">Type</span></th>
     <th><span class="sort" data-sort="col7">Accessioned</span></th>
     <th><span class="sort" data-sort="col8">Note2</span></th>
