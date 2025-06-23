@@ -119,6 +119,7 @@ a {
     color: #f56a6a !important; }
     a:hover strong {
       color: inherit; }
+h4 a {color: #f56a6a !important;}
 
 strong, b {
   color: #3d4449;

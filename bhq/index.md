@@ -1,5 +1,5 @@
 ---
 layout: redirect
-title: BHQ Home
+title: BHSQ Home
 redirect: /index.html
 ---

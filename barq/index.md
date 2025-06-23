@@ -4,8 +4,10 @@ title: QB Archives
 menu: barq
 ---
 
-# Welcome
 
+{% include events.md %}
+
+# Welcome
 The Baptist Church Archives, Queensland, Australia is the main repository for the records of the Baptist denomination in Queensland, housed at The Queensland Baptists Centre, 53 Prospect Road, Gaythorne, Queensland 4051.
 
 The Archives is open only by appointment:
