@@ -76,6 +76,26 @@ google_analytics:
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
     cache_path:       # the local PV cache data, friendly to visitors from GFW region
+
+# Permalink style for posts
+permalink: /:year/:month/:day/:title/
+
+
 plugins:
   - jekyll-pdf-embed
+
+
+# Exclude files from build
+exclude:
+  - README.md
+  - node_modules
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Eric"
 
