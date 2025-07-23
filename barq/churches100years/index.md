@@ -2,6 +2,8 @@
 layout: default
 title: Queensland Baptist churches by date of erection/opening
 menu: barq
+thumbpath: thumbs/
+pagepath: p/
 ---
 ## {{ page.title }}
 

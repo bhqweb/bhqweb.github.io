@@ -8,10 +8,10 @@ menu: bhq
 
 ### Extracts
 
-- [Forum 84 extracts](forum84-ex.html)
-- [Forum 83 extracts](forum83-ex.html)
-- [Forum 82 extracts](forum82-ex.html)
-- [Forum 81 extracts](forum81-ex.html)
+- [Forum 84 extracts](forum84-ex/)
+- [Forum 83 extracts](forum83-ex/)
+- [Forum 82 extracts](forum82-ex/)
+- [Forum 81 extracts](forum81-ex/)
 
 ### Full Articles
 
@@ -23,5 +23,5 @@ menu: bhq
 {% assign file = group.items[0].file | strip_newlines | normalize_whitespace %}
 {% assign ext = group.items[0].file | slice: -3,3 %}
 {% if ext == "pdf" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/pdf/{{- file -}}">view PDF</a></li>{% endif %}
-{% if ext == ".md" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/bhq/forum/volumes/{{- file | replace: '.md', '.html' -}}">read.</a></li>{% endif %}
+{% if ext == ".md" %}<li>Forum {{ vol }} &mdash; {% include month.md %} {{ year }} <a href="/bhq/forum/volumes/{{- file | replace: '.md', '/' -}}">read.</a></li>{% endif %}
 {%- endfor -%}

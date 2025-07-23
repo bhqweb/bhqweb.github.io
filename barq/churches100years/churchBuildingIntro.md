@@ -11,7 +11,7 @@ Images are copyright ©
 
   
 
-[Go to the Album](/barq/churches100years/index.html)
+[Go to the Album](/barq/churches100years/)
 
   
 

@@ -25,10 +25,10 @@ To search press Ctrl and F, then type your search word, then press enter.
 <!-- The following line was changed 2024-03-08 so the download goes via a redirect html page to record downloads. -->
 {% if ext == "pdf" %}
 <li>
-<a href="{{ page.dlpath }}{{- file | replace: ".pdf",".html" -}}">view PDF</a>
+<a href="{{ page.dlpath }}{{- file | replace: ".pdf","/" -}}">view PDF</a>
 </li>
 {% endif %}
-{% if ext == ".md" %}<li><a href="/bhq/forum/volumes/{{- file | replace: ".md",".html" -}}">view file</a></li>{% endif %}
+{% if ext == ".md" %}<li><a href="/bhq/forum/volumes/{{- file | replace: ".md","/" -}}">view file</a></li>{% endif %}
 
 {%- for item in group.items -%}
 {% if item.Order != "0" %}

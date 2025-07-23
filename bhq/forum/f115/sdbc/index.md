@@ -2,6 +2,8 @@
 layout: default
 title: Sunnybank District Baptist Church Construction
 menu: bhq
+thumbpath: thumbs/
+pagepath: p/
 ---
 ## {{ page.title }}
 

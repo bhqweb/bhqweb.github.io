@@ -47,14 +47,14 @@
     href: /barq/german-baptist/
 - title: Baptist Heritage Queensland
   sub: 
-  - title: BHQ Home
+  - title: BHSQ Home
     href: /index.html
   - title: Publications
     href: /bhq/pubs/
   - title: Index to Queensland Baptist Forum
     href: /bhq/forum/
-- title: "National Guide"
-  href: "/natguide/"
+#- title: "National Guide"
+#  href: "/natguide/"
 - title: "Third Party Resources"
   sub: 
   - title: Thom Blake Baptist Church Information

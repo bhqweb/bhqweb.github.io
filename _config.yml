@@ -93,7 +93,7 @@ exclude:
 # Defaults for posts
 defaults:
   - scope:
-      path: ""
+      path: "bhq/posts"
       type: "posts"
     values:
       layout: "post"

@@ -2,6 +2,8 @@
 layout: default
 title: German Baptist Churches
 menu: barq
+thumbpath: thumbs/
+pagepath: p/
 ---
 ## {{ page.title }}
 

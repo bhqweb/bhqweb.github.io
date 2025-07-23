@@ -22,10 +22,10 @@ This presentation features the key facts about the churches commemorated so far 
 
 Please make use of the self-drive [Baptist Brisbane](/bhq/guide/index.html) and [Rockhampton](http://127.0.0.1:4000/bhq/guide/rockhampton.html) tours.
 
-- [Plaque 1](/bhq/plaques/plaque01.html) United Evangelical Church (UEC)
-- [Plaque 2](/bhq/plaques/plaque02.html) Vernor German Baptist Church
-- [Plaque 3](/bhq/plaques/plaque03.html) Toowong Baptist Church
-- [Plaque 4](/bhq/plaques/plaque04.html) City Tabernacle Baptist Church
-- [Plaque 5](/bhq/plaques/plaque05.html) Windsor Road Baptist Church
-- [Plaque 6](/bhq/plaques/plaque06.html) North-East Baptist Church (Nundah)
-- [Plaque 7](/bhq/plaques/plaque07.html) Wharf Street Baptist Church
+- [Plaque 1](/bhq/plaques/plaque01/) United Evangelical Church (UEC)
+- [Plaque 2](/bhq/plaques/plaque02/) Vernor German Baptist Church
+- [Plaque 3](/bhq/plaques/plaque03/) Toowong Baptist Church
+- [Plaque 4](/bhq/plaques/plaque04/) City Tabernacle Baptist Church
+- [Plaque 5](/bhq/plaques/plaque05/) Windsor Road Baptist Church
+- [Plaque 6](/bhq/plaques/plaque06/) North-East Baptist Church (Nundah)
+- [Plaque 7](/bhq/plaques/plaque07/) Wharf Street Baptist Church

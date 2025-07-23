@@ -2,8 +2,8 @@
 layout: default
 title: Guide Sheets
 menu: bhq
-dlpath: ../pdf/
-dlext: .pdf
+dlpath: /dl/
+dlext: /
 ---
 
 {% include guides.md %}
