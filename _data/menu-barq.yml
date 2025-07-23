@@ -3,34 +3,34 @@
 - title: Archive Resources
   sub:
   - title: Archive Bookcase inventory
-    href: /barq/archive/bookcase_inventory.html
+    href: /barq/archive/bookcase_inventory/
   - title: Photos
-    href: /barq/archive/photos_list.html
+    href: /barq/archive/photos_list/
   - title: Queensland Baptist Newspaper Photos
-    href: /barq/archive/qb-mag-photos.html
+    href: /barq/archive/qb-mag-photos/
   - title: Baptists Periodicals
-    href: /barq/archive/bap-periodicals.html
+    href: /barq/archive/bap-periodicals/
   - title: Digital Resources
-    href: /barq/archive/digital-res.html
+    href: /barq/archive/digital-res/
   - title: QB Magazine articles index 1881-1998
-    href: /barq/archive/qb-mag-articles.html
+    href: /barq/archive/qb-mag-articles/
   - title: Archive acquisitions
-    href: /barq/archive/acquired.html
+    href: /barq/archive/acquired/
     
 - title: Historical Lists
   sub:
   - title: Church Starts
-    href: /barq/lists/churches.html
+    href: /barq/lists/churches/
   - title: Baptist Union Officers 1877-2010
-    href: /barq/lists/offices.html
+    href: /barq/lists/offices/
   - title: Baptist Union Qld. Ministers 1849-1906
-    href: /barq/lists/min1906.html
+    href: /barq/lists/min1906/
   - title: Baptist Union Qld. Ministers 1906-1955
-    href: /barq/lists/min1955.html
+    href: /barq/lists/min1955/
   - title: Baptist Churches Organisation Leaders 1907-1969
-    href: /barq/leaders/index.html
+    href: /barq/leaders/index/
   - title: Thom Blake Baptist Church Information
-    href: /barq/thirdParty/BlakeThomChurchData
+    href: /barq/thirdParty/BlakeThomChurchData/
 
 
 - title: Archiving Guides
@@ -40,27 +40,27 @@
 - title: Photo Albums
   sub: 
   - title: Baptist Churches in Queensland Album from 1851
-    href: /barq/churches100years/index.html
+    href: /barq/churches100years/
   - title: Introduction to Baptist Churches in Queensland Album
-    href: /barq/churches100years/churchBuildingIntro.html
+    href: /barq/churches100years/churchBuildingIntro
   - title: German Baptist Churches Album
-    href: /barq/german-baptist/index.html
+    href: /barq/german-baptist/
 - title: Baptist Heritage Queensland
   sub: 
   - title: BHQ Home
     href: /index.html
   - title: Publications
-    href: /bhq/pubs/index.html
+    href: /bhq/pubs/
   - title: Index to Queensland Baptist Forum
-    href: /bhq/forum/index.html
+    href: /bhq/forum/
 - title: "National Guide"
-  href: "/natguide/index.html"
+  href: "/natguide/"
 - title: "Third Party Resources"
   sub: 
   - title: Thom Blake Baptist Church Information
-    href: /barq/thirdParty/BlakeThomChurchData
+    href: /barq/thirdParty/BlakeThomChurchData/
   - title: Thom Blake Interactive Map
-    href: /barq/thirdParty/BlakeThomChurchData/qldbapmap.html
+    href: /barq/thirdParty/BlakeThomChurchData/qldbapmap/
 - title: "Links"
   sub:
     - title: Queensland Baptists

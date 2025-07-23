@@ -3,49 +3,49 @@
 - title: "Publications"
   sub:
     - title: "Publications List"
-      href: "/bhq/pubs/index.html"
+      href: "/bhq/pubs/"
     - title: "Author List"
-      href: "/bhq/pubs/authors.html"
+      href: "/bhq/pubs/authors/"
     - title: "In Print"
-      href: "/bhq/pubs/print.html"
+      href: "/bhq/pubs/print/"
     - title: "Out of Print"
-      href: "/bhq/pubs/out-print.html"
+      href: "/bhq/pubs/out-print/"
     - title: "ePub"
-      href: "/bhq/pubs/epub.html"
+      href: "/bhq/pubs/epub/"
     - title: "Print on Demand"
-      href: "/bhq/pubs/pod.html"
+      href: "/bhq/pubs/pod/"
     - title: "Monographs"
-      href: "/bhq/pubs/mono.html"
+      href: "/bhq/pubs/mono/"
     - title: "Papers"
-      href: "/bhq/papers/index.html"
+      href: "/bhq/papers/"
 - title: "Forum Journal"
   sub:
     - title: Forum 1984 - ... 
       href: /bhq/forum/index.html
     - title: Forum Title Index
-      href: /bhq/forum/Forum1-80Index.html
+      href: /bhq/forum/search/
 #    - title: Forum Author Index
 #      href: /bhq/forum/forumAuthor.html
     - title: Forum Articles and Extracts
-      href: /bhq/forum/extracts/index.html
+      href: /bhq/forum/extracts/
 - title: "Heritage Plaque Project"
   sub:
     - title: Heritage Plaque Project Background
-      href: /bhq/plaques/index.html
+      href: /bhq/plaques/
     - title: Plaque 1 1999
-      href: /bhq/plaques/plaque01.html
+      href: /bhq/plaques/plaque01/
     - title: Plaque 2 2004
-      href: /bhq/plaques/plaque02.html
+      href: /bhq/plaques/plaque02/
     - title: Plaque 3 2016
-      href: /bhq/plaques/plaque03.html
+      href: /bhq/plaques/plaque03/
     - title: Plaque 4 2017
-      href: /bhq/plaques/plaque04.html
+      href: /bhq/plaques/plaque04/
     - title: Plaque 5 2017
-      href: /bhq/plaques/plaque05.html
+      href: /bhq/plaques/plaque05/
     - title: Plaque 6 2020
-      href: /bhq/plaques/plaque06.html
+      href: /bhq/plaques/plaque06/
     - title: Plaque 7 2021
-      href: /bhq/plaques/plaque07.html
+      href: /bhq/plaques/plaque07/
 #    - title: Plaque 8 
 #      href: /bhq/plaques/plaque08.html
 #    - title: Plaque 9 
@@ -55,17 +55,17 @@
 - title: Historical Tour Guides
   sub: 
     - title: Brisbane Baptist Historical Guide
-      href: /bhq/guide/index.html
+      href: /bhq/guide/
     - title: Rockhampton Baptist Historical Guide
-      href: /bhq/guide/rockhampton.html
+      href: /bhq/guide/rockhampton/
 - title: Archiving Guide Sheets
   href: /bhq/guides/
 - title: "Qld Baptist Archives"
-  href: "/barq/index.html"
+  href: "/barq/"
 - title: "Links"
   sub:
     - title: Queensland Baptists
       href: https://www.qb.org.au/
     - title: "National Guide"
-      href: "/natguide/index.html"
+      href: "/natguide/"
   
