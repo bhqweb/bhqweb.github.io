@@ -895,24 +895,14 @@ Mt Morgan and Highfields</p>
 <p class="min-txt">&nbsp;</p>
 
 <p class="min-head">Godson, William Thomas</p>
-
-<p class="min-txt">d.
-ca 1888 ?</p>
-
-<p class="min-txt">1859-62,
-Ebbw Vale, S. Wales</p>
-
-<p class="min-txt">to
-Qld 1863</p>
-
-<p class="min-txt">City
-Tabernacle (supply) March 1863</p>
-
-<p class="min-txt">April
-1863 Maryborough – supply while Rev. J.T. Hinton absent but
-remains in the town; reported in 1882 (aged 81+ years) conducting
-services in Baptist House of Prayer in John Lane.</p>
-
+<p class="min-txt">b 1803 Knightsbridge London</p>
+<p class="min-txt">d. 1888 Gympie, Qld</p>
+<p class="min-txt">ca 1841-52 Tenbury, England</p>
+<p class="min-txt">1852-59, Evenjobb and Gladestry, Wales</p>
+<p class="min-txt">1859-62, Ebbw Vale, Wales</p>
+<p class="min-txt">Arrived in Queensland 1863</p>
+<p class="min-txt">City Tabernacle (supply) March 1863</p>
+<p class="min-txt">April 1863 Maryborough – supply while Rev. J.T. Hinton absent, but remains in the town until 1885 conducting services, weddings, baptisms etc in his home, Dovedale, aka 'Baptist House of Prayer' in John Lane and other places.</p>
 <p class="min-txt">&nbsp;</p>
 
 <p class="min-txt" style="margin-left: 1cm; text-indent: -1cm;"><b>Hamilton,
@@ -1018,33 +1008,16 @@ BU of NSW 1916-37</p>
 
 <p class="min-head">Hinton, Josiah Taylor</p>
 
-<p class="min-txt">d.
-Feb or Mar 1916</p>
-
-<p class="min-txt">son
-of Rev J.H. Hinton, London</p>
-
-<p class="min-txt">moved
-to Ipswich from Bathurst St Baptist Church, May 1859</p>
-
-<p class="min-txt">trained
-by Rev. B.G. Wilson and ordained by him at Maryborough, Oct 1861</p>
-
-<p class="min-txt">April
-1860 - Sept 1864 Maryborough</p>
-
-<p class="min-txt">Sept
-1864 - July 1865 Rockhampton</p>
-
-<p class="min-txt">Ministry
-in NSW: Bathurst 1866-69; Orange 69-</p>
-
-<p class="min-txt">Ministry
-in NZ ca Sept 1875</p>
-
-<p class="min-txt">President
-Baptist Union of NSW, 1874</p>
-
+<p class="min-txt">b 29 July 1833</p>
+<p class="min-txt">d. 5 Nov 1915</p>
+<p class="min-txt">son of Rev J.H. Hinton, London</p>
+<p class="min-txt">moved to Ipswich from Bathurst St Baptist Church, May 1859 working in newspaper trade</p>
+<p class="min-txt">trained by Rev. B.G. Wilson and sent to Maryborough as founding pastor and ordained by Wilson at Maryborough, Oct 1861</p>
+<p class="min-txt">April 1860 - Sept 1864 Maryborough (founding pastor)</p>
+<p class="min-txt">Sept 1864 - July 1865 Rockhampton (founding pastor)</p>
+<p class="min-txt">Ministry in NSW: Bathurst 1866-69; Orange 69-</p>
+<p class="min-txt">Ministry in NZ ca Sept 1875</p>
+<p class="min-txt">President Baptist Union of NSW, 1874</p>
 <p class="min-txt">&nbsp;</p>
 
 <p class="min-head">Hodgson, F.</p>
