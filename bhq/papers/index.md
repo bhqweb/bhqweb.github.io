@@ -11,4 +11,4 @@ Read or download the article [here](/dl/Parker-Baptists-in-Gayndah/)
 
 ### The man who saved Maryborough Baptists – WT Godson
 _by David Parker_<br/>2026<br/>
-Read or download the article [here](/dl/Parker-WTGodson-Maryborough-2026/)
+Read or download the article [here](/dl/Parker-WTGodson-Maryborough/)
