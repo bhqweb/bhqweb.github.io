@@ -14,5 +14,5 @@ _by David Parker_<br/>2026 Updated: 7 July 2026<br/>
 Read or download the article [here](/dl/Parker-WTGodson-Maryborough/)
 
 ### The original Gympie Baptists—Three strikes!
-_by David Parker_
+_by David Parker_<br/>
 Read or download the article [here](/dl/Parker-Gympie-Baptists-3-strikes/)
