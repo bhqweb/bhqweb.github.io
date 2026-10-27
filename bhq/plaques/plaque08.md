@@ -14,7 +14,7 @@ The history of the Edward Street church was researched by Baptist Archives resea
 
 Representatives of the Anglican Church, DrugARM (formerly the Temperance Alliance, including its historian), the owners of the current building (Daisho Co Ltd), Mr Quintin Hickling (Director of Operations, Queensland Baptists), and several BHSQ members attended the function, which was held indoors on account of the weather. The ‘virtual’ unveiling was performed by Rev Glenn Brodie, senior pastor of the City Tabernacle Baptist Church. Mr Eric Kopittke (BHSQ Chair) hosted the event and gave an overview of the history of the site. This was supported by a photo presentation prepared by Mr Robert Atkins, site manager of the property, after which refreshments were served at the nearby coffee shop. 
 
-Both the Baptist Historical Society and the Archives welcome the involvement of interested Baptists throughout Queensland. Contact: kopittke@tpg.com.au  and archives@qb.org.au  
+Both the Baptist Historical Society and the Archives welcome the involvement of interested Baptists throughout Queensland. Contact: [kopittke@tpg.com.au](mailto:kopittke@tpg.com.au)  and [archives@qb.org.au](mailto:archives@qb.org.au)  
 
 <img src="/images/plaque08.jpg" alt="Plaque 8 " style="width:800px;"/>
 
