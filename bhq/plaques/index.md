@@ -29,3 +29,4 @@ Please make use of the self-drive [Baptist Brisbane](/bhq/guide/index.html) and 
 - [Plaque 5](/bhq/plaques/plaque05/) Windsor Road Baptist Church
 - [Plaque 6](/bhq/plaques/plaque06/) North-East Baptist Church (Nundah)
 - [Plaque 7](/bhq/plaques/plaque07/) Wharf Street Baptist Church
+- [Plaque 8](/bhq/plaques/plaque07/) Edward Street Baptist Church
