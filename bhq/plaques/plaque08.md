@@ -16,4 +16,6 @@ Representatives of the Anglican Church, DrugARM (formerly the Temperance Allianc
 
 Both the Baptist Historical Society and the Archives welcome the involvement of interested Baptists throughout Queensland. Contact: kopittke@tpg.com.au  and archives@qb.org.au  
 
+<img src="/images/plaque08.jpg" alt="Plaque 8 " style="width:800px;"/>
 
+![Plaque 8 unveiling](/images/plaque08-unveil.jpg)\\
